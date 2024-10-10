@@ -78,8 +78,8 @@
 		<div class="_block">
 			🧨 <span class="text-gray-400">Contact:</span> <span class="text-lime-300">0xjceee</span> @ proton.me
 		</div>
-		<div class="_block">
-			📍 <span class="text-gray-400">Find:</span>
+		<div class="_block text-gray-400">
+			📍 <span>Find:</span>
 			<span class="text-lime-300">Printclub London</span> Unit 3, 10-28 Millers Ave. London, E8 2DS
 		</div>
 	</div>
