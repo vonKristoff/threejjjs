@@ -6,10 +6,10 @@
 @layer base {
 	html {
 		@apply font-secondary;
+		@apply bg-dark;
 	}
 }
 
 html {
-	background-color: #15130e;
 	color: white;
 }

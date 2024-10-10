@@ -8,7 +8,8 @@ export default {
 				secondary: ['Inter']
 			},
 			colors: {
-				tomato: '#fc6348'
+				tomato: '#fc6348',
+				dark: '#15130e'
 			}
 		}
 	},
