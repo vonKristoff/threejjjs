@@ -6,6 +6,9 @@ export default {
 			fontFamily: {
 				primary: ['Nunito Sans'],
 				secondary: ['Inter']
+			},
+			colors: {
+				tomato: '#fc6348'
 			}
 		}
 	},

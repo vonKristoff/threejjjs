@@ -1,15 +1,136 @@
-<div class="_page grid place-content-center min-h-screen">
+<nav class="fixed min-w-full flex justify-between items-center">
+	<a href="github.com/vonKristoff" aria-label="github profile">
+		<div class="_icon fill">
+			<svg><use xlink:href="archetypal.svg#logo" /></svg>
+		</div>
+	</a>
+	<p class="_tagline text-xl">❤️ Loving story driven content, and new ways to explore data.</p>
+	<a href="github.com/vonKristoff" aria-label="github profile">
+		<div class="_icon text-lime-300">
+			<svg><use xlink:href="github.svg#git" /></svg>
+		</div>
+	</a>
+</nav>
+<div class="_page grid grid-cols-3 place-content-center min-h-screen px-16 gap-8">
+	<div class="flex items-center text-2xl">
+		<p>
+			🧠 Having 10+ years senior <span class="text-lime-300">leadership</span> experience,
+			practicing
+			<span class="text-tomato">Agile</span>
+			at the heart of Frontend engineering.
+		</p>
+	</div>
 	<div class="_poster flex flex-col items-center">
 		<div><img src="./threejjjs.png" alt="threejjjs" /></div>
 		<h1 class="text-center text-white text-6xl font-primary">
 			three<span class="text-lime-300">jjj</span>s
 		</h1>
-		<h2 class="mt-4 text-center text-white text-3xl font-secondary">Interactive Tech</h2>
+		<h2 class="text-center text-white text-2xl font-secondary">Interactive Tech</h2>
+	</div>
+	<div class="flex items-center text-2xl">
+		<p>
+			📐 Producing cutting edge interfaces and applying strict and
+			<span class="text-lime-300">accessible</span> Web standards.
+		</p>
 	</div>
 </div>
+
+<div class="_contact grid gap-8 justify-center px-16 mt-[-2em] text-xl text-center w-1/2 mx-auto">
+	<p>
+		🔮 Now <span class="text-lime-300">building bridges</span> into the
+		<span class="text-tomato">Blockchain</span>
+		space where immutability, proof, and local-first ownership of personal data is all part of the journey
+		towards a
+		<span class="text-lime-300">decentralised</span> world...
+	</p>
+</div>
+
+<div class="_experience grid grid-cols-3 justify-center mt-16 p-16 pb-4">
+	<div class="col"></div>
+	<div class="col">
+		<div class="grid grid-cols-3">
+			<div class="col">
+				<h4 class="text-tomato">Enterprise</h4>
+				<ul class="my-8 text-gray-400">
+					<li>Vodafone</li>
+					<li>MSQ Partners</li>
+					<li>MMT Digital</li>
+				</ul>
+			</div>
+			<div class="col">
+				<h4 class="text-lime-300">Creative</h4>
+				<ul class="my-8 text-gray-400">
+					<li>ScanLAB Projects</li>
+					<li>Mail Rail Museum</li>
+					<li>Sir John Soanes Museum</li>
+				</ul>
+			</div>
+			<h4 class="">Currently with Archetypal Tech</h4>
+		</div>
+	</div>
+	<div class="col"></div>
+</div>
+<footer
+	class="w-screen grid grid-cols-3 border-t-[1px] border-tomato p-8 border-dashed text-xs text-primary"
+>
+	<div class="col"></div>
+	<div class="col text-sm flex flex-col gap-2">
+		<div class="_block">
+			🧨 <span class="text-gray-400">Contact:</span> <span class="text-lime-300">0xjceee</span> @ proton.me
+		</div>
+		<div class="_block">
+			📍 <span class="text-gray-400">Find:</span>
+			<span class="text-lime-300">Printclub London</span> Unit 3, 10-28 Millers Ave. London, E8 2DS
+		</div>
+	</div>
+	<div class="col"></div>
+</footer>
 
 <style>
 	h2 {
 		color: tomato;
+	}
+	._icon {
+		padding: 1em;
+	}
+	._icon svg {
+		width: 2em;
+		height: 2em;
+	}
+	.fill {
+		color: rgb(190 242 100);
+		fill: rgb(190 242 100);
+	}
+	._tagline {
+		animation: shrink linear both;
+		animation-timeline: scroll();
+		animation-range: 100px 50%;
+	}
+	._contact {
+		opacity: 0;
+		transform: scale(1);
+		animation: fade linear both;
+		animation-timeline: view();
+		animation-range: -100px 30%;
+	}
+	@keyframes shrink {
+		from {
+			transform: scale(1);
+			opacity: 1;
+		}
+		to {
+			opacity: 0;
+			transform: scale(0.75);
+		}
+	}
+	@keyframes fade {
+		from {
+			opacity: 0;
+			transform: translateY(-2em) scale(1);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(2em) scale(1.2);
+		}
 	}
 </style>
