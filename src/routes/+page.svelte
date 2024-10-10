@@ -17,7 +17,7 @@
 			🧠 Having 10+ years senior <span class="text-lime-300">leadership</span> experience,
 			practicing
 			<span class="text-tomato">Agile</span>
-			at the heart of Frontend engineering.
+			at the heart of Front-end engineering.
 		</p>
 	</div>
 	<div class="_poster flex flex-col items-center">
