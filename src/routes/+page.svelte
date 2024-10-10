@@ -76,7 +76,8 @@
 	<div class="col"></div>
 	<div class="col text-sm flex flex-col gap-2">
 		<div class="_block">
-			🧨 <span class="text-gray-400">Contact:</span> <span class="text-lime-300">0xjceee</span> @ proton.me
+			🧨 <span class="text-gray-400">Contact:</span> <span class="text-lime-300">0xjceee</span> @
+			<span class="text-gray-400">proton.me</span>
 		</div>
 		<div class="_block text-gray-400">
 			📍 <span>Find:</span>
