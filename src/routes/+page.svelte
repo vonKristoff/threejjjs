@@ -40,11 +40,16 @@
 <div
 	class="_contact grid gap-8 justify-center px-16 mt-[-2em] text-sm md:text-xl text-center md:w-1/2 mx-auto py-16 pt-4 md:pt-0"
 >
-	<p>
+	<!-- <p>
 		🔮 Now <span class="text-lime-300">building bridges</span> into the
 		<span class="text-tomato">Blockchain</span>
 		space where immutability, proof, and local-first ownership of personal data is all part of the journey
 		towards a
+		<span class="text-lime-300">decentralised</span> world...
+	</p> -->
+	<p>
+		🔮 Now <span class="text-lime-300">building bridges</span> with immutability, proof, and
+		local-first ownership of personal data; all driving towards a
 		<span class="text-lime-300">decentralised</span> world...
 	</p>
 </div>
@@ -71,7 +76,7 @@
 					<li>Sir John Soanes Museum</li>
 				</ul>
 			</div>
-			<h4 class="">Currently with Archetypal Tech</h4>
+			<h4 class="">Currently with Samaeopus Ltd.</h4>
 		</div>
 	</div>
 	<div class="col"></div>
