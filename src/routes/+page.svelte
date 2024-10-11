@@ -1,5 +1,5 @@
 <nav class="fixed min-w-full flex justify-between items-center bg-dark md:bg-transparent">
-	<a href="github.com/vonKristoff" aria-label="github profile">
+	<a href="https://github.com/vonKristoff" aria-label="github profile">
 		<div class="_icon fill">
 			<svg><use xlink:href="archetypal.svg#logo" /></svg>
 		</div>
@@ -7,7 +7,7 @@
 	<p class="_tagline md:text-xl text-sm">
 		❤️ Loving story driven content, and new ways to explore data.
 	</p>
-	<a href="github.com/vonKristoff" aria-label="github profile">
+	<a href="https://github.com/vonKristoff" aria-label="github profile">
 		<div class="_icon text-lime-300">
 			<svg><use xlink:href="github.svg#git" /></svg>
 		</div>
@@ -117,6 +117,7 @@
 		animation: shrink linear both;
 		animation-timeline: scroll();
 		animation-range: 100px 50%;
+		opacity: 1;
 	}
 	._contact {
 		opacity: 0;
