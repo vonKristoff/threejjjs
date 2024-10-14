@@ -33,7 +33,7 @@
 	</div>
 	<div class="flex items-center md:text-2xl">
 		<p>
-			📐 Producing cutting edge interfaces and applying strict and
+			📐 Producing cutting edge interfaces; applying strict and
 			<span class="text-lime-300">accessible</span> Web standards.
 		</p>
 	</div>
