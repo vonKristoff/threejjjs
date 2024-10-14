@@ -1,17 +1,19 @@
-<nav class="fixed min-w-full flex justify-between items-center bg-dark md:bg-transparent">
-	<a href="https://github.com/vonKristoff" aria-label="github profile">
+<nav class="fixed min-w-full flex justify-between items-center bg-dark md:bg-transparent py-2">
+	<!-- <a href="https://github.com/vonKristoff" aria-label="github profile">
 		<div class="_icon fill">
 			<svg><use xlink:href="archetypal.svg#logo" /></svg>
 		</div>
-	</a>
+	</a> -->
+	<div></div>
 	<p class="_tagline md:text-xl text-sm">
 		❤️ Loving story driven content, and new ways to explore data.
 	</p>
-	<a href="https://github.com/vonKristoff" aria-label="github profile">
+	<div></div>
+	<!-- <a href="https://github.com/vonKristoff" aria-label="github profile">
 		<div class="_icon text-lime-300">
 			<svg><use xlink:href="github.svg#git" /></svg>
 		</div>
-	</a>
+	</a> -->
 </nav>
 <div class="_page grid md:grid-cols-3 md:place-content-center min-h-screen px-16 md:gap-8">
 	<div class="flex items-center md:text-2xl pt-16 md:pt-0">
@@ -115,12 +117,12 @@
 	}
 	._tagline {
 		animation: shrink linear both;
+		animation-duration: 7s;
 		animation-timeline: scroll();
 		animation-range: 100px 50%;
 		opacity: 1;
 	}
 	._contact {
-		opacity: 0;
 		transform: scale(1);
 		animation: fade linear both;
 		animation-timeline: view();
@@ -133,7 +135,7 @@
 		}
 		to {
 			opacity: 0;
-			transform: scale(0.75);
+			transform: scale(0.8);
 		}
 	}
 	@keyframes fade {
