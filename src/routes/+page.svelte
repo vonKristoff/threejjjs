@@ -1,3 +1,29 @@
+<script>
+	import { onMount } from 'svelte';
+	let fallback;
+	let tag;
+	onMount(() => {
+		if (!CSS.supports('animation-timeline:none')) {
+			const ratio = 0.95;
+			function intersect(entries) {
+				entries.forEach((entry) => {
+					if (entry.intersectionRatio < ratio) {
+						tag.classList.add('is-hidden');
+					} else {
+						tag.classList.remove('is-hidden');
+					}
+				});
+			}
+			const options = {
+				root: document.querySelector('_tagline'),
+				threshold: ratio
+			};
+			let observer = new IntersectionObserver(intersect, options);
+			observer.observe(fallback);
+		}
+	});
+</script>
+
 <nav class="fixed min-w-full flex justify-between items-center bg-dark md:bg-transparent py-2">
 	<!-- <a href="https://github.com/vonKristoff" aria-label="github profile">
 		<div class="_icon fill">
@@ -5,7 +31,7 @@
 		</div>
 	</a> -->
 	<div></div>
-	<p class="_tagline md:text-xl text-sm">
+	<p bind:this={tag} class="_tagline md:text-xl text-sm">
 		❤️ Loving story driven content, and new ways to explore data.
 	</p>
 	<div></div>
@@ -15,6 +41,7 @@
 		</div>
 	</a> -->
 </nav>
+<!-- <div class="min-h-screen"></div> -->
 <div class="_page grid md:grid-cols-3 md:place-content-center min-h-screen px-16 md:gap-8">
 	<div class="flex items-center md:text-2xl pt-16 md:pt-0">
 		<p>
@@ -24,7 +51,7 @@
 			at the heart of Front-end engineering.
 		</p>
 	</div>
-	<div class="_poster flex flex-col items-center">
+	<div bind:this={fallback} class="_poster flex flex-col items-center">
 		<div><img src="./threejjjs.png" alt="threejjjs" /></div>
 		<h1 class="text-center text-white text-6xl font-primary">
 			three<span class="text-lime-300">jjj</span>s
@@ -40,7 +67,7 @@
 </div>
 
 <div
-	class="_contact grid gap-8 justify-center px-16 mt-[-2em] text-sm md:text-xl text-center md:w-1/2 mx-auto py-16 pt-4 md:pt-0"
+	class="_contact grid gap-8 justify-center px-16 mt-[-2em] text-sm md:text-xl text-center md:w-1/2 mx-auto py-16 pt-4 md:pt-0 md:px-0"
 >
 	<!-- <p>
 		🔮 Now <span class="text-lime-300">building bridges</span> into the
@@ -115,12 +142,22 @@
 		color: rgb(190 242 100);
 		fill: rgb(190 242 100);
 	}
+	@supports (animation-timeline: view()) {
+		._tagline {
+			animation: shrink linear both;
+			animation-timeline: scroll();
+			animation-range: 100px 50%;
+			opacity: 1;
+		}
+	}
 	._tagline {
-		animation: shrink linear both;
-		animation-duration: 7s;
-		animation-timeline: scroll();
-		animation-range: 100px 50%;
+		transform: scale(1);
 		opacity: 1;
+		transition: 0.3s;
+		&.is-hidden {
+			opacity: 0;
+			transform: scale(0.8);
+		}
 	}
 	._contact {
 		transform: scale(1);
