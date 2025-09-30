@@ -31,7 +31,7 @@
 		</div>
 	</a> -->
 	<div></div>
-	<p bind:this={tag} class="_tagline md:text-xl text-sm">
+	<p bind:this={tag} class="_tagline md:text-xl text-sm text-center px-16">
 		❤️ Loving story driven content, and new ways to explore data.
 	</p>
 	<div></div>
@@ -44,7 +44,7 @@
 <!-- <div class="min-h-screen"></div> -->
 <div class="_page grid md:grid-cols-3 md:place-content-center min-h-screen px-16 md:gap-8">
 	<div class="flex items-center md:text-2xl pt-16 md:pt-0">
-		<p>
+		<p class="text-center md:text-left">
 			🧠 Having 10+ years senior <span class="text-lime-300">leadership</span> experience,
 			practicing
 			<span class="text-tomato">Agile</span>
@@ -58,7 +58,7 @@
 		</h1>
 		<h2 class="text-center text-white text-2xl font-secondary">Interactive Tech</h2>
 	</div>
-	<div class="flex items-center md:text-2xl">
+	<div class="flex items-center md:text-2xl text-center md:text-left">
 		<p>
 			📐 Producing cutting edge interfaces; applying strict and
 			<span class="text-lime-300">accessible</span> Web standards.
@@ -76,7 +76,7 @@
 		towards a
 		<span class="text-lime-300">decentralised</span> world...
 	</p> -->
-	<p>
+	<p class="text-center md:text-left">
 		🔮 Now <span class="text-lime-300">building bridges</span> with immutability, proof, and
 		local-first ownership of personal data; all driving towards a
 		<span class="text-lime-300">decentralised</span> world...
