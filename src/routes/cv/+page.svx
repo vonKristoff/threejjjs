@@ -1,0 +1,64 @@
+# JC Nicolas
+
+<div class="flex flex-col">
+	<div class="flex gap-4"><strong>📚 Experience:</strong>     <span>Senior Developer 10+ years (Enterprise & Agency)</span></div>
+	<div class="flex gap-4"><strong>✨ Specialisation:</strong> <span>FE & Product</span></div>
+	<div class="flex gap-4"><strong>📍 Location:</strong>       <span>London, UK</span></div>
+</div>
+
+> With Typescript | Tailwind | Accessibility; use any Framework and let's build amazing user experiences
+
+### 🤙 Contact links
+<ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
+	<li><a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">LinkedIn</a></li>
+	<li><a target="_blank" href="https://github.com/vonKristoff/">Github</a></li>
+	<li><span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span></li>
+</ul>
+
+### 📐 Technical practice
+| Development                       | Design UX/UI                             | Product                |
+| --------------------------------- | ---------------------------------------- | ---------------------- |
+| Typescript                        | Following \| Implementing Design systems | Agile methodologies    |
+| React \| Svelte \| Astro \| Solid                    | Semantic HTML & Accessibility standards  | User Stories \| Sizing |
+| CICD workflows | Storybook \| Component Library's         | Cross-functional teams |
+| API's \| Node \| Docker        | Tailwind                                 |   PR Reviews                     |
+|                         |                                          |                        |
+
+### 🚀 Highlights
+* [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
+* [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency
+* [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
+* [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
+* [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
+
+---
+
+### ⏳ History
+
+#### threejjjs - August 2025 - current
+* FE Contractor
+
+#### Semaeopus - July 2024 - July 2025
+* Launch of game The Oruggin Trail on Itch.io
+* FE & BE infrastructure
+* Many Presskit Markdown sites
+* Game Landing Sites
+
+#### A26 - March 2024 - July 2024
+* FE Components and design layouts for CMS driven corporate clients
+
+#### MMT - December 2023 - March 2024
+* In-house R&D with Federated modules and Micro Frontends
+* In-house React based component Library
+
+#### Vodafone - August 2018 - November 2023
+* See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up
+* Team Lead for the Checkout application
+
+#### ScanLAB Projects
+
+#### Neverbland
+
+#### Bulb
+
+#### Shelter
