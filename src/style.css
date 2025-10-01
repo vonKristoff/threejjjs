@@ -1,16 +1,16 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
+:root {
+	--html-bg: #15130e;
+}
 
-@layer base {
-	html {
-		@apply font-secondary;
-		@apply bg-dark;
-	}
+@theme {
+	--color-html: var(--html-bg);
 }
 
 html {
 	color: white;
 	overflow-x: hidden;
+	@apply bg-html;
 }
