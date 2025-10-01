@@ -1,9 +1,19 @@
 # JC Nicolas
 
 <div class="flex flex-col">
-	<div class="flex gap-4"><strong>📚 Experience:</strong>     <span>Senior Developer 10+ years (Enterprise & Agency)</span></div>
-	<div class="flex gap-4"><strong>✨ Specialisation:</strong> <span>FE & Product</span></div>
-	<div class="flex gap-4"><strong>📍 Location:</strong>       <span>London, UK</span></div>
+	<div class="flex gap-4">
+		<span>📚</span>
+		<strong class="hidden md:block">Experience:</strong>
+		<span class="w-full md:text-right">Senior Developer 10+ years (Enterprise & Agency)</span>
+	</div>
+	<div class="flex gap-4">
+		<span>✨</span>
+		<strong class="hidden md:block">Specialisation:</strong>
+		<span class="w-full md:text-right">FE & Product</span></div>
+	<div class="flex gap-4">
+		<span>📍</span>
+		<strong class="hidden md:block">Location:</strong>
+		<span class="w-full md:text-right">London, UK</span></div>
 </div>
 
 > With Typescript | Tailwind | Accessibility; use any Framework and let's build amazing user experiences

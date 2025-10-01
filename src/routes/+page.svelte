@@ -84,7 +84,7 @@
 </div>
 
 <div
-	class="_experience grid md:grid-cols-3 my-8 md:my-0 justify-center md:mt-16 px-16 pb-4 pt-12 md:pt-16 text-base border-t-[1px] border-tomato border-dashed md:border-none"
+	class="_experience grid grid-cols-[1fr_2fr_1fr] gap-8 my-8 md:my-0 md:mt-16 px-16 pb-4 pt-12 md:pt-16 text-base border-t-[1px] border-tomato border-dashed md:border-none"
 >
 	<div class="col"></div>
 	<div class="col">
@@ -111,7 +111,7 @@
 	<div class="col"></div>
 </div>
 <footer
-	class="w-screen grid md:grid-cols-3 border-t-[1px] border-tomato p-8 border-dashed text-xs text-primary"
+	class="md:grid-cols-[1fr_1.2fr_1fr] w-screen grid border-t-[1px] border-tomato p-8 border-dashed text-xs text-primary"
 >
 	<div class="col"></div>
 	<div class="col text-sm flex flex-col gap-2">
@@ -122,6 +122,15 @@
 		<div class="_block text-gray-400">
 			📍 <span>Find:</span>
 			<span class="text-lime-300">Printclub London</span> Unit 3, 10-28 Millers Ave. London, E8 2DS
+		</div>
+		<div class="_block text-gray-400">
+			<span class="text-slate-600">📚 Recruiters: </span>
+			<a
+				class="hover:text-white"
+				data-sveltekit-preload-data="off"
+				aria-label="CV for threejjjs"
+				href="/cv">Curriculum Vitae</a
+			>
 		</div>
 	</div>
 	<div class="col"></div>

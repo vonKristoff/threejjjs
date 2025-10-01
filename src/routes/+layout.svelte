@@ -6,8 +6,13 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+	<style>
+		:root {
+			--html-bg: #15130e;
+		}
+	</style>
 </svelte:head>
 
-<main>
+<main id="home">
 	{@render children()}
 </main>
