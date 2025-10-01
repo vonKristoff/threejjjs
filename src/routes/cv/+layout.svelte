@@ -2,7 +2,7 @@
 	let { children } = $props();
 </script>
 
-<section class="grid place-content-center my-24">
+<section class="grid place-content-center my-24 px-2">
 	<article class="prose">
 		{@render children()}
 	</article>
