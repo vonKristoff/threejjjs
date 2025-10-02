@@ -67,8 +67,16 @@
 
 #### ScanLAB Projects
 
+#### Just-So
+
 #### Neverbland
 
 #### Bulb
 
 #### Shelter
+
+#### Harmony Park
+
+---
+#### Badge of Honour: 
+<span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
