@@ -29,6 +29,7 @@
 > With Typescript | Tailwind | Accessibility; use any Framework and let's build amazing user experiences
 
 ### 🤙 Contact links
+For full skills list please checkout my LinkedIn
 <ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
 	<li><a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">LinkedIn</a></li>
 	<li><a target="_blank" href="https://github.com/vonKristoff/">Github</a></li>
@@ -41,7 +42,7 @@
 | Typescript                        | Following \| Implementing Design systems | Agile methodologies    |
 | React \| Svelte \| Astro \| Solid                    | Semantic HTML & Accessibility standards  | User Stories \| Sizing |
 | CICD workflows | Storybook \| Component Library's         | Cross-functional teams |
-| API's \| Node \| Docker        | Tailwind                                 |   PR Reviews                     |
+| Node \| Bun \| Docker        | Tailwind                                 |   PR Reviews                     |
 |                         |                                          |                        |
 
 ### 🚀 Highlights
@@ -60,7 +61,7 @@
 
 #### Semaeopus - July 2024 - July 2025
 * Launch of game The Oruggin Trail on Itch.io
-* FE & BE infrastructure
+* FE & BE infrastructure (node | fly.io)
 * Many Presskit Markdown sites
 * Game Landing Sites
 
