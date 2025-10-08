@@ -26,7 +26,7 @@
 		<span class="w-full md:text-right">London, UK</span></div>
 </div>
 
-> With Typescript | Tailwind | Accessibility; use any Framework and let's build amazing user experiences
+> With a JS Runtime | Typescript | Tailwind | Accessibility; use any Framework and let's build amazing user experiences - everywhere for everyone
 
 ### 🤙 Contact links
 For full skills list please checkout my LinkedIn
