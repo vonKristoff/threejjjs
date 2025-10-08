@@ -37,13 +37,16 @@ For full skills list please checkout my LinkedIn
 </ul>
 
 ### 📐 Technical practice
-| Development                       | Design UX/UI                             | Product                |
-| --------------------------------- | ---------------------------------------- | ---------------------- |
-| Typescript                        | Following \| Implementing Design systems | Agile methodologies    |
-| React \| Svelte \| Astro \| Solid                    | Semantic HTML & Accessibility standards  | User Stories \| Sizing |
-| CICD workflows | Storybook \| Component Library's         | Cross-functional teams |
-| Node \| Bun \| Docker        | Tailwind                                 |   PR Reviews                     |
-|                         |                                          |                        |
+| Development                       | Design UX/UI                    | Process                   |
+| --------------------------------- | ------------------------------- | ------------------------- |
+| Typescript                        | Following Figma designs         | Agile methodolgies        |
+| React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories     |
+| Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows            |
+| RestFul API's \| GraphQL          | Accessibility and Web Standards | QA                        |
+| Vite \| Package scripts           | Tailwind CSS                    | E2E journeys with Cypress |
+| Claude \| Co-Pilot                | Responsive Layouts              | RTL \| Jest Unit Tests    |
+| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                |
+
 
 ### 🚀 Highlights
 * [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
@@ -57,36 +60,103 @@ For full skills list please checkout my LinkedIn
 ### ⏳ History
 
 #### threejjjs - August 2025 - current
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Astro</span>
+	<span>Svelte</span>
+	<span>Video</span>
+</div>
+
 * FE Contractor
 
 #### Semaeopus - July 2024 - July 2025
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Svelte</span>
+	<span>Fly.io</span>
+	<span>Node | Hono</span>
+	<span>Pocketbase</span>
+	<span>Github workflows</span>
+	<span>Email campaigns</span>
+	<span>UX Design</span>
+	<span>Component Library</span>
+	<span>Github Repo Templates</span>
+</div>
+
 * Launch of game The Oruggin Trail on Itch.io
 * FE & BE infrastructure (node | fly.io)
 * Many Presskit Markdown sites
 * Game Landing Sites
 
 #### A26 - March 2024 - July 2024
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>QA</span>
+	<span>.NET</span>
+	<span>Component Library</span>
+	<span>Figma</span>
+	<span>Accessibility testing</span>
+	<span>Umbraco</span>
+</div>
+
 * FE Components and design layouts for CMS driven corporate clients
 
 #### MMT - December 2023 - March 2024
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>MFE</span>
+	<span>Federated Modules</span>
+	<span>React | RTL</span>
+	<span>Next.js</span>
+</div>
+
 * In-house R&D with Federated modules and Micro Frontends
 * In-house React based component Library
 
 #### Vodafone - August 2018 - November 2023
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Team Lead</span>
+	<span>RTL | Cypress | E2E Testing</span>
+	<span>React | Typescript | Zod</span>
+	<span>AWS | Lambda</span>
+</div>
+
 * See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up
 * Team Lead for the Checkout application
 
 #### ScanLAB Projects
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Vue</span>
+	<span>Three.js</span>
+	<span>AWS | Lambda</span>
+</div>
+
+* 3D experiences
+* Museum and Gallery grade Web applications
+* In-house infrastructure and automation pipelines
 
 #### Just-So
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>React</span>
+</div>
+
+* Agency work
 
 #### Neverbland
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>React</span>
+</div>
 
 #### Bulb
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>React</span>
+</div>
 
 #### Shelter
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>React</span>
+</div>
 
 #### Harmony Park
+<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Backbone.js</span>
+</div>
 
 ---
 #### Badge of Honour: 
