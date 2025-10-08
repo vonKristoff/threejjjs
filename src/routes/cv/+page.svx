@@ -89,6 +89,9 @@
 
 ---
 #### Badge of Honour: 
+<span class="rounded-md bg-slate-200 px-4 py-2">Vodafone Hackathon winner 2022</span>
+<span class="rounded-md bg-slate-200 px-4 py-2">Postal Museum Interactive Display 2017</span>
+<span class="rounded-md bg-slate-200 px-4 py-2">Best Tech in Video Award for Farfetch 2014</span>
 <span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
 
 <style>
