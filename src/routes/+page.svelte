@@ -84,11 +84,11 @@
 </div>
 
 <div
-	class="_experience grid grid-cols-[1fr_2fr_1fr] gap-8 my-8 md:my-0 md:mt-16 px-16 pb-4 pt-12 md:pt-16 text-base border-t-[1px] border-tomato border-dashed md:border-none"
+	class="_experience grid grid-cols-1 md:flex md:justify-center my-8 md:my-0 md:mt-16 px-16 pb-4 pt-12 md:pt-16 text-base border-t-[1px] border-tomato border-dashed md:border-none"
 >
 	<div class="col"></div>
 	<div class="col">
-		<div class="grid md:grid-cols-3">
+		<div class="grid md:grid-cols-3 max-w-2xl">
 			<div class="col">
 				<h4 class="text-tomato">Enterprise</h4>
 				<ul class="my-4 md:my-8 text-gray-400">
