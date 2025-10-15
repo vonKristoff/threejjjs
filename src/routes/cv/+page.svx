@@ -43,8 +43,8 @@ For full skills list please checkout my LinkedIn
 | React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories     |
 | Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows            |
 | RestFul API's \| GraphQL          | Accessibility and Web Standards | QA                        |
-| Vite \| Package scripts           | Tailwind CSS                    | E2E journeys with Cypress |
-| Claude \| Co-Pilot                | Responsive Layouts              | RTL \| Jest Unit Tests    |
+| Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
+| Claude \| Co-Pilot                | Responsive Layouts              | Jira \| Azure \| Linear   |
 | Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                |
 
 
