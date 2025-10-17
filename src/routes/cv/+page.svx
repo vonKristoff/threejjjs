@@ -64,12 +64,14 @@ For full skills list please checkout my LinkedIn
 	<span>Astro</span>
 	<span>Svelte</span>
 	<span>Video</span>
+	<span>Stripe</span>
 </div>
 
 * FE Contractor
 
 #### Semaeopus - July 2024 - July 2025
 <div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Stripe</span>
 	<span>Svelte</span>
 	<span>Fly.io</span>
 	<span>Node | Hono</span>
