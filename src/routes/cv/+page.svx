@@ -47,6 +47,14 @@ For full skills list please checkout my LinkedIn
 | Claude \| Co-Pilot                | Responsive Layouts              | Jira \| Azure \| Linear   |
 | Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                |
 
+### ⚡️ Have I used? (yes)
+<div class="flex gap-1 [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5">
+	<span>Blockchain (Starknet)</span>
+	<span>LLM (OpenAI)</span>
+	<span>Stripe Payments</span>
+	<span>D3.js</span>
+	<span>ThreeJS</span>
+</div>
 
 ### 🚀 Highlights
 * [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
@@ -102,6 +110,7 @@ For full skills list please checkout my LinkedIn
 
 #### MMT - December 2023 - March 2024
 <div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
+	<span>Component Library</span>
 	<span>MFE</span>
 	<span>Federated Modules</span>
 	<span>React | RTL</span>
