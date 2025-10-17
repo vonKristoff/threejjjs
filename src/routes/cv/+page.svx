@@ -39,16 +39,16 @@ For full skills list please checkout my LinkedIn
 ### 📐 Technical practice
 | Development                       | Design UX/UI                    | Process                   |
 | --------------------------------- | ------------------------------- | ------------------------- |
-| Typescript | Zod                  | Following Figma designs         | Agile methodolgies        |
+| Typescript \| Zod                  | Following Figma designs         | Agile methodolgies        |
 | React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories     |
 | Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows            |
 | RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot        |
 | Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
-| Fly | Vercel | Railway | AWS      | Responsive Layouts              | Jira \| Azure \| Linear   |
+| Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear   |
 | Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                |
 
 ### ⚡️ Have I used? (yes)
-<div class="flex gap-1 [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5">
+<div class="flex gap-1 [&>*]:text-xs [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5">
 	<span>Blockchain (Starknet)</span>
 	<span>LLM (OpenAI)</span>
 	<span>Stripe Payments</span>
@@ -143,12 +143,13 @@ For full skills list please checkout my LinkedIn
 * Museum and Gallery grade Web applications
 * In-house infrastructure and automation pipelines
 
+
+### 🕵 Agency work
+
 #### Just-So
 <div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
 	<span>React</span>
 </div>
-
-* Agency work
 
 #### Neverbland
 <div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
@@ -192,5 +193,8 @@ For full skills list please checkout my LinkedIn
 			object-fit: cover;
 			object-position: center bottom;
 		}
+	}
+	td:nth-child(even) {
+		background-color: var(--color-slate-100);
 	}
 </style>
