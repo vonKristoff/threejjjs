@@ -1,203 +1,215 @@
 <script>
-	import head from '../../lib/assets/threejjjs.png'
+  import head from "../../lib/assets/threejjjs.jpg";
 </script>
 
-	<div class="flex flex-row justify-between items-end">
-		<h1>JC Nicolas</h1>
-		<div class="headshot">
-			<img src={head} alt="JC Nicolas">
-		</div>
-	</div>
-
+<div class="flex flex-row justify-between items-end">
+  <h1>JC Nicolas</h1>
+  <div class="headshot">
+    <img src={head} alt="JC Nicolas" />
+  </div>
+</div>
 
 <div class="flex flex-col">
-	<div class="flex gap-4">
-		<span>📚</span>
-		<strong class="hidden md:block">Experience:</strong>
-		<span class="w-full md:text-right">Senior Developer 10+ years (Enterprise & Agency)</span>
-	</div>
-	<div class="flex gap-4">
-		<span>✨</span>
-		<strong class="hidden md:block">Specialisation:</strong>
-		<span class="w-full md:text-right">FE & Product</span></div>
-	<div class="flex gap-4">
-		<span>📍</span>
-		<strong class="hidden md:block">Location:</strong>
-		<span class="w-full md:text-right">London, UK</span></div>
+  <div class="flex gap-4">
+    <span>📚</span>
+    <strong class="hidden md:block">Experience:</strong>
+    <span class="w-full md:text-right"
+      >Senior Developer 10+ years (Enterprise & Agency)</span
+    >
+  </div>
+  <div class="flex gap-4">
+    <span>✨</span>
+    <strong class="hidden md:block">Specialisation:</strong>
+    <span class="w-full md:text-right">FE & Product</span>
+  </div>
+  <div class="flex gap-4">
+    <span>📍</span>
+    <strong class="hidden md:block">Location:</strong>
+    <span class="w-full md:text-right">London, UK</span>
+  </div>
 </div>
 
-> With a Typescript Runtime, design from Tailwind, use any Framework and let's build amazing user experiences - everywhere for everyone
-
-### 🤙 Contact links
+> With a Typescript Runtime, design from Tailwind, use any Framework and let's
+build amazing user experiences - everywhere for everyone ### 🤙 Contact links
 For full skills list please checkout my LinkedIn
 <ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
-	<li><a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">LinkedIn</a></li>
-	<li><a target="_blank" href="https://github.com/vonKristoff/">Github</a></li>
-	<li><span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span></li>
+  <li>
+    <a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank"
+      >LinkedIn</a
+    >
+  </li>
+  <li><a target="_blank" href="https://github.com/vonKristoff/">Github</a></li>
+  <li>
+    <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
+  </li>
 </ul>
 
-### 📐 Technical practice
-| Development                       | Design UX/UI                    | Process                   |
-| --------------------------------- | ------------------------------- | ------------------------- |
-| Typescript \| Zod                  | Following Figma designs         | Agile methodolgies        |
-| React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories     |
-| Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows            |
-| RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot        |
-| Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
-| Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear   |
-| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                |
-
-### ⚡️ Have I used? (yes)
-<div class="flex gap-1 [&>*]:text-xs [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5">
-	<span>Blockchain (Starknet)</span>
-	<span>LLM (OpenAI)</span>
-	<span>Stripe Payments</span>
-	<span>D3.js</span>
-	<span>ThreeJS</span>
-	<span>Drizzle</span>
+### 📐 Technical practice | Development | Design UX/UI | Process | |
+--------------------------------- | ------------------------------- |
+------------------------- | | Typescript \| Zod | Following Figma designs |
+Agile methodolgies | | React \| Svelte \| Astro \| Solid | Implementing Design
+systems | Defining User Stories | | Hono \| Express \| Next | Semantic HTML |
+CICD Workflows | | RestFul API's \| GraphQL | Accessibility and Web Standards |
+Claude \| Co-Pilot | | Vite \| Package scripts | Tailwind CSS | E2E Cypress \|
+RTL \| Jest | | Fly \| Vercel \| Railway \| AWS | Responsive Layouts | Jira \|
+Azure \| Linear | | Node \| Bun \| Docker | Page load optimisation | PR Reviews
+| ### ⚡️ Have I used? (yes)
+<div
+  class="flex gap-1 [&>*]:text-xs [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5"
+>
+  <span>Blockchain (Starknet)</span>
+  <span>LLM (OpenAI)</span>
+  <span>Stripe Payments</span>
+  <span>D3.js</span>
+  <span>ThreeJS</span>
+  <span>Drizzle</span>
 </div>
 
-### 🚀 Highlights
-* [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
-* [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency
-* [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
-* [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
-* [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
-
----
-
-### ⏳ History
-
-#### threejjjs - August 2025 - current
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Astro</span>
-	<span>Svelte</span>
-	<span>Video</span>
-	<span>Stripe</span>
+### 🚀 Highlights * [Corinthia Hotels](https://www.corinthia.com/) | A26 |
+Agency * [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency *
+[ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract *
+[What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs |
+Contract * [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
+--- ### ⏳ History #### threejjjs - August 2025 - current
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Astro</span>
+  <span>Svelte</span>
+  <span>Video</span>
+  <span>Stripe</span>
 </div>
 
-* Aura Satz (Astro site)
-* Coppermill Rain Garden (Astro site)
-* WYC - Walthamstow Youth Circus (Astro site)
-* Valley of the Cooltrees (Astro site)
-
+* Aura Satz (Astro site) * Coppermill Rain Garden (Astro site) * WYC -
+Walthamstow Youth Circus (Astro site) * Valley of the Cooltrees (Astro site)
 #### Semaeopus - July 2024 - July 2025
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Stripe</span>
-	<span>Svelte</span>
-	<span>Fly.io</span>
-	<span>Node | Hono</span>
-	<span>Pocketbase</span>
-	<span>Github workflows</span>
-	<span>Email campaigns</span>
-	<span>UX Design</span>
-	<span>Component Library</span>
-	<span>Github Repo Templates</span>
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Stripe</span>
+  <span>Svelte</span>
+  <span>Fly.io</span>
+  <span>Node | Hono</span>
+  <span>Pocketbase</span>
+  <span>Github workflows</span>
+  <span>Email campaigns</span>
+  <span>UX Design</span>
+  <span>Component Library</span>
+  <span>Github Repo Templates</span>
 </div>
 
-* Launch of game The Oruggin Trail on Itch.io
-* FE & BE infrastructure (node | fly.io)
-* PressKit self generating Markdown sites
-* Game Landing Sites
-
-#### A26 - March 2024 - July 2024
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>QA</span>
-	<span>.NET</span>
-	<span>Component Library</span>
-	<span>Figma</span>
-	<span>Accessibility testing</span>
-	<span>Umbraco</span>
+* Launch of game The Oruggin Trail on Itch.io * FE & BE infrastructure (node |
+fly.io) * PressKit self generating Markdown sites * Game Landing Sites #### A26
+- March 2024 - July 2024
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>QA</span>
+  <span>.NET</span>
+  <span>Component Library</span>
+  <span>Figma</span>
+  <span>Accessibility testing</span>
+  <span>Umbraco</span>
 </div>
 
-* FE Components and design layouts for CMS driven corporate clients
-
-#### MMT - December 2023 - March 2024
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Component Library</span>
-	<span>MFE</span>
-	<span>Federated Modules</span>
-	<span>React | RTL</span>
-	<span>Next.js</span>
+* FE Components and design layouts for CMS driven corporate clients #### MMT -
+December 2023 - March 2024
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Component Library</span>
+  <span>MFE</span>
+  <span>Federated Modules</span>
+  <span>React | RTL</span>
+  <span>Next.js</span>
 </div>
 
-* In-house R&D with Federated modules and Micro Frontends
-* In-house React based component Library
-
-#### Vodafone - August 2018 - November 2023
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Team Lead</span>
-	<span>RTL | Cypress | E2E Testing</span>
-	<span>React | Typescript | Zod</span>
-	<span>AWS | Lambda</span>
+* In-house R&D with Federated modules and Micro Frontends * In-house React based
+component Library #### Vodafone - August 2018 - November 2023
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Team Lead</span>
+  <span>RTL | Cypress | E2E Testing</span>
+  <span>React | Typescript | Zod</span>
+  <span>AWS | Lambda</span>
 </div>
 
-* See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up
-* Team Lead for the Checkout application
-
-#### ScanLAB Projects
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Vue</span>
-	<span>Three.js</span>
-	<span>AWS | Lambda</span>
+* See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up *
+Team Lead for the Checkout application #### ScanLAB Projects
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Vue</span>
+  <span>Three.js</span>
+  <span>AWS | Lambda</span>
 </div>
 
-* 3D experiences
-* Museum and Gallery grade Web applications
-* In-house infrastructure and automation pipelines
-
-
-### 🕵 Agency work
-
-#### Just-So
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>React</span>
+* 3D experiences * Museum and Gallery grade Web applications * In-house
+infrastructure and automation pipelines ### 🕵 Agency work #### Just-So
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>React</span>
 </div>
 
 #### Neverbland
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>React</span>
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>React</span>
 </div>
 
 #### Bulb
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>React</span>
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>React</span>
 </div>
 
 #### Shelter
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>React</span>
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>React</span>
 </div>
 
 #### Harmony Park
-<div class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs">
-	<span>Backbone.js</span>
+<div
+  class="flex flex-wrap [&>*]:rounded-md [&>*]:bg-slate-200 [&>*]:px-4 [&>*]:py-0.5 gap-1 text-xs"
+>
+  <span>Backbone.js</span>
 </div>
 
----
-#### Badge of Honour: 
+--- #### Badge of Honour:
 <div class="flex flex-col gap-2">
-<span class="rounded-md bg-slate-200 px-4 py-2">Vodafone Hackathon winner 2022</span>
-<span class="rounded-md bg-slate-200 px-4 py-2">Postal Museum Interactive Display 2017</span>
-<span class="rounded-md bg-slate-200 px-4 py-2">Best Tech in Video Award for Farfetch 2014</span>
-<span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
+  <span class="rounded-md bg-slate-200 px-4 py-2"
+    >Vodafone Hackathon winner 2022</span
+  >
+  <span class="rounded-md bg-slate-200 px-4 py-2"
+    >Postal Museum Interactive Display 2017</span
+  >
+  <span class="rounded-md bg-slate-200 px-4 py-2"
+    >Best Tech in Video Award for Farfetch 2014</span
+  >
+  <span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
 </div>
 
 <style>
-	.headshot {
-		width: 6em;
-		height: 6em;
-		border-radius: 50%;
-		overflow: hidden;
-		img {
-			margin: auto;
-			width: 100%;
-			height: 100%;
-			object-fit: cover;
-			object-position: center bottom;
-		}
-	}
-	td:nth-child(even) {
-		background-color: var(--color-slate-100);
-	}
+  .headshot {
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    overflow: hidden;
+    img {
+      margin: auto;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center bottom;
+    }
+  }
+  td:nth-child(even) {
+    background-color: var(--color-slate-100);
+  }
 </style>
