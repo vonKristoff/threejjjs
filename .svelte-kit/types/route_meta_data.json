@@ -1,4 +1,10 @@
 {
-	"/": [],
-	"/cv": []
+	"/": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/cv": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	]
 }
