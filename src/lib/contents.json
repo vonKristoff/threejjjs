@@ -1,0 +1,60 @@
+{
+	"highlights": {
+		"motmac": {
+			"title": "Mott Macdonald",
+			"client": "A26",
+			"role": "FE Developer",
+			"url": "https://www.mottmac.com",
+			"thumb": "MOTMAC",
+			"tags": ["FE Components"]
+		},
+		"corin": {
+			"title": "Corinthia Hotels",
+			"client": "A26",
+			"role": "FE Developer",
+			"url": "https://www.corinthia.com/",
+			"thumb": "CORIN",
+			"tags": ["FE Components"]
+		},
+		"scanlab": {
+			"title": "ScanLAB Projects",
+			"client": "ScanLAB Projects",
+			"role": "Web Developer",
+			"url": "https://scanlabprojects.co.uk/",
+			"thumb": "SCANLAB",
+			"tags": ["Astro", "Design & Development", "CI/CD"]
+		},
+		"soane": {
+			"title": "Soane Museum",
+			"client": "ScanLAB Projects",
+			"role": "Software Engineer",
+			"url": "https://explore.soane.org/",
+			"thumb": "SOANE",
+			"tags": ["Vue", "Design & Development", "three.js"]
+		},
+		"wawb": {
+			"title": "What Are We Building",
+			"client": "threejjjs",
+			"role": "Web Developer",
+			"url": "https://walthamstow.whatarewebuilding.xyz/",
+			"thumb": "WAWB",
+			"tags": ["Design & Development"]
+		},
+		"archetypal": {
+			"title": "Archetypal Tech",
+			"client": "Semaeoupus",
+			"role": "Front End Engineer",
+			"url": "https://archetypaltech.com/",
+			"thumb": "ARCH",
+			"tags": ["Design & Development", "FE Components", "UX/UI"]
+		},
+		"presskit": {
+			"title": "PressKit infrastructure",
+			"client": "Semaeopus",
+			"role": "Front End Engineer",
+			"url": "https://press.oruggintrail.com/",
+			"thumb": "PRESSKIT",
+			"tags": ["Design & Development", "Markdown", "CI/CD"]
+		}
+	}
+}
