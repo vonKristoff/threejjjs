@@ -1,4 +1,6 @@
-<script>import head from "../../lib/assets/threejjjs.jpg";</script>
+<script>
+  import head from "../../lib/assets/threejjjs.jpg";
+</script>
 
 <div class="flex flex-row justify-between items-end">
   <h1>JC Nicolas</h1>
@@ -27,8 +29,7 @@
   </div>
 </div>
 
-> With a Typescript Runtime, design from Tailwind, use any Framework and let's
-> build amazing user experiences - everywhere for everyone
+> With a Typescript Runtime, design from Tailwind, use any Framework and let's build amazing user experiences - everywhere for everyone
 
 ### 🤙 Contact links
 
@@ -80,8 +81,6 @@ For full skills list please checkout my LinkedIn
 - [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
 - [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
 - [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
-
----
 
 ### ⏳ History
 
@@ -210,8 +209,6 @@ August 2018 - November 2023
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Backbone.js</span>
 </div>
-
----
 
 #### Badge of Honour:
 
