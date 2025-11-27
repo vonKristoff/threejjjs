@@ -1,11 +1,11 @@
-<script>
+<!-- <script>
   import head from "../../lib/assets/threejjjs.jpg";
-</script>
+</script> -->
 
 <div class="flex flex-row justify-between items-end">
   <h1>JC Nicolas</h1>
   <div class="headshot">
-    <img src={head} alt="JC Nicolas" />
+    <img src="/threejjjs.webp" alt="JC Nicolas" />
   </div>
 </div>
 
