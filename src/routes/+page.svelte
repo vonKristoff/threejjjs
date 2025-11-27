@@ -1,6 +1,6 @@
 <script>
   import Navigator from "$lib/components/header/Navigator.svelte";
-  import hero from "$lib/assets/threejjjs.jpg";
+  // import hero from "$lib/assets/threejjjs.jpg";
   import Highlights from "$lib/components/Highlights.svelte";
   import Intersect from "$lib/components/Intersect.svelte";
   import Spintersect from "$lib/components/Spintersect.svelte";
