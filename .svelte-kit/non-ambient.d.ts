@@ -37,6 +37,6 @@ declare module "$app/types" {
 		};
 		Pathname(): "/" | "/cv" | "/cv/";
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
-		Asset(): "/meta-threejjjs.jpg" | "/robots.txt" | "/sprites.svg" | "/thumbs/.DS_Store" | "/thumbs/ARCH.jpg" | "/thumbs/CORIN.jpg" | "/thumbs/MOTMAC.jpg" | "/thumbs/PRESSKIT.jpg" | "/thumbs/SCANLAB.jpg" | "/thumbs/SOANE.jpg" | "/thumbs/WAWB.jpg" | "/thumbs/mobile/ARCH.jpg" | "/thumbs/mobile/CORIN.jpg" | "/thumbs/mobile/MOTMAC.jpg" | "/thumbs/mobile/PRESSKIT.jpg" | "/thumbs/mobile/SCANLAB.jpg" | "/thumbs/mobile/SOANE.jpg" | "/thumbs/mobile/WAWB.jpg" | string & {};
+		Asset(): "/meta-threejjjs.jpg" | "/robots.txt" | "/sprites.svg" | "/threejjjs.jpg" | "/threejjjs.webp" | "/thumbs/.DS_Store" | "/thumbs/ARCH.jpg" | "/thumbs/CORIN.jpg" | "/thumbs/MOTMAC.jpg" | "/thumbs/PRESSKIT.jpg" | "/thumbs/SCANLAB.jpg" | "/thumbs/SOANE.jpg" | "/thumbs/WAWB.jpg" | "/thumbs/mobile/ARCH.jpg" | "/thumbs/mobile/CORIN.jpg" | "/thumbs/mobile/MOTMAC.jpg" | "/thumbs/mobile/PRESSKIT.jpg" | "/thumbs/mobile/SCANLAB.jpg" | "/thumbs/mobile/SOANE.jpg" | "/thumbs/mobile/WAWB.jpg" | string & {};
 	}
 }
