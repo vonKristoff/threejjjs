@@ -8,14 +8,12 @@
   import global from "$lib/stores/global.svelte";
 </script>
 
+<!-- style={`background-image:url(${hero})`} -->
 <Navigator />
 <main class="content-grid">
   <Intersect bg="dark" layout="full-width">
     <section class="grid place-content-center h-dvh bg-prime-200">
-      <div
-        class="hero bg-cover bg-prime-200 bg-blend-lighten max-w-full"
-        style={`background-image:url(${hero})`}
-      ></div>
+      <div class="hero bg-cover bg-prime-200 bg-blend-lighten max-w-full"></div>
       <h1
         class="text-center text-text-200 text-6xl md:text-8xl font-primary m-0"
       >
@@ -124,6 +122,7 @@
     max-height: 50dvh;
     aspect-ratio: 1/1;
     width: 50dvh;
+    background-image: url("/threejjjs.webp");
   }
   .middle:before {
     content: "";
