@@ -98,7 +98,7 @@
         </p>
       </div>
       <p class="breakout italic bg-pop-100 p-8 rounded-lg">
-        Together, let's make digital, <strong>story driven</strong> and brilliant.
+        Together, let's make digital (<strong>story driven</strong> and brilliant).
       </p>
       <div class="flex flex-col gap-4">
         <span class="text-prime-200 text-4xl font-bold font-primary"
