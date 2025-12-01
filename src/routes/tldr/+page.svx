@@ -50,7 +50,7 @@ For full skills list please checkout my LinkedIn
 
 ### Profile Summary
 
-I established my professional competence in my career, at Vodafone, I used a Typescript and React stack, using MobX for state management. We underwent strict code reviews, and made use of E2E testing, as well as argued plenty over the value of Unit Tests for the particular application. I learnt the benefits by taking things slowly, as changes made on the Checkout would impact the customer directly in regards to completing sales, therefore quality control and thorough planning was critical.
+I established my professional competence in my career, at Vodafone. I used a Typescript and React stack, using MobX for state management. We underwent strict code reviews, and made use of E2E testing, as well as argued plenty over the value of Unit Tests for the particular application. I learnt the benefits by taking things slowly, as changes made on the Checkout would impact the customer directly in regards to completing sales, therefore quality control and thorough planning was critical.
 
 There is a balance, especially in Front End development between reinventing the wheel, and working out how to roll out your own. For example, It's all well and good using a Tween engine, but once you've built your own, you unlock inspiration knowing how it works and thus what you can do with it. I think this ethos has helped me remain a curious Developer, to which has given me an open mind to also try new things and allows me to be a collaborative teammate. This balance points to both following trends as well as being able to craft out new ones.
 
