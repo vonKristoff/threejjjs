@@ -6,5 +6,9 @@
 	"/cv": [
 		"src/routes/+layout.js",
 		"src/routes/+layout.js"
+	],
+	"/tldr": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
 	]
 }
