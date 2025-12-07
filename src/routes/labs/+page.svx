@@ -60,9 +60,9 @@ For full skills list please checkout my LinkedIn
 
 ### Profile Summary
 
-I want to immediately highlight the work I have done with ScanLAB Projects, and the Soane museum experience site that I built (please see link in the UI highlights below). There was a combination of 2D CSS tricks and 3D (via three.js) to consume LIDAR pointcloud data. I am very proud of this, and the UI/UX that was created for the journey that takes user throughout a few of the available rooms. Ultimately a showcase of my skills to bring interface, storytelling and curiosity in javascript to bring high performant optimisations.
-
 I established my professional competence in my career, at Vodafone. I used a Typescript and React stack, using MobX for state management. We underwent strict code reviews, and made use of E2E testing, as well as argued plenty over the value of Unit Tests for the particular application. I learnt the benefits by taking things slowly, as changes made on the Checkout would impact the customer directly in regards to completing sales, therefore quality control and thorough planning was critical.
+
+Although being Front End focused, I have worked on parts all over the stack. I have always been fascinated with DX and making my life easier through automative scripts, as well as what different BE databases / stacks bring to the table. Looking forward, I really like what is happening within the local first and sync space, and how this could end up changing our Front End patterns in the future.
 
 ### 📐 Technical practice
 
@@ -105,7 +105,7 @@ Within metric data from Datadog it was brought to our attention that we were hav
 - [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
 - [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency
 - [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
-- [Soane Museum](https://explore.soane.org) | ScanLAB
+- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
 - [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
 
 ### ⏳ History
