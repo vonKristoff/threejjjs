@@ -1,0 +1,270 @@
+<!-- <script>
+  import head from "../../lib/assets/threejjjs.jpg";
+</script> -->
+
+<div class="flex flex-row justify-between items-end">
+  <h1>JC Nicolas</h1>
+  <!-- <div class="headshot">
+    <img src="/threejjjs.webp" alt="JC Nicolas" />
+  </div> -->
+</div>
+
+
+<div class="flex flex-col gap-1">
+<div class="flex gap-4">
+  <span>📚</span>
+  <span>10+ years Web experience from Startup to Enterprise</span>
+</div>
+<div class="flex gap-4">
+  <span>✨</span>
+<span>Curious behind what makes UI feel so good.</span>
+
+</div>
+<div class="flex gap-4">
+  <span>🧰</span>
+<span>Framework agnostic; strong Javascript and CSS fundamentals</span>
+
+</div>
+</div>
+
+### 🤙 Contact links
+
+For full skills list please checkout my LinkedIn
+
+
+<ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
+  <li>
+    <a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/vonKristoff/">
+      Github
+    </a>
+  </li>
+  <li>
+    <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
+  </li>
+</ul>
+
+### Profile Summary
+
+I established my professional competence in my career, at Vodafone. I used a Typescript and React stack. We underwent strict code reviews, and all other usual modern Agile methodologies from planning to delivery. I also experienced the benefits from Team ceremonies, sharing success and supporting others be it moral boosters on or pair programming. I also worked on an in-house component library, which was used by all other global Front end teams in the company, making use of Design systems and visual tools such as Figma.
+
+I absolutely love working alongside Design and Product, and being able to help figure out how UI/UX can solve user journeys. I am ever curious about Front End performance, browser native API’s and generally being able to work out dynamic animations/interactions.
+
+Although being Front End focused, I have worked on parts all over the stack. I have always been fascinated with DX and making mine/my teams life easier through automative scripts, CICD workflows and javascript npm executables.
+
+In regards to API's and CMS's, I have worked with many over the years, so have no problem adapting to the needs of the job. We are affectively building upon established patterns that are core to what makes the web today so great.
+
+What makes the job exciting, is the pace and that Editorial is where Front end shines the most! I hope I would be able to bring strong skills in both development and design, an open mind and an ability to listen.
+
+### 📐 Technical practice
+
+| Development                       | Design UX/UI                    | Process                    |
+| --------------------------------- | ------------------------------- | -------------------------- |
+| Typescript \| Zod                 | Following Figma designs         | Agile methodolgies         |
+| React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories      |
+| Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows             |
+| RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot         |
+| Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
+| Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear    |
+| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 |
+
+### Career Highlights
+
+#### Semaeopus
+
+As a small Games Studio, there were lots of projects on the go as well as R&D, and as Web Developer I maintained a consistent Design guide across many FE deployments from Single Page Micro-sites to Markdown driven 'Press Kits'. Using Github repo Templates, Workflows and CLI scripts to get to speed was the flavour used to spin up endpoints on demand.
+
+During my time, we released a text based adventure Web game. I absolutely loved developing / designing the (behind the scenes) Story Editor, from both a Product and UI perspective, it was an exciting challenge and took a lot of inspiration from an infinite node 'flow' based system.
+
+#### ScanLAB Projects
+
+We had a project management problem, there were renders that needed running in conjunction with Client sign-off. By using AWS lambdas, Trello and a Frontend, I built an in-house system to discuss video work with the client, which upon sign-off the preview render would become marked for 4k production, from which the appropriate team would be able to deliver. By using Webhooks, the Trello board was the database which connected all the services together.
+
+My most proud achievement was building the Soane museum experience site. It was a narrative and information led Web application, using a mixture of 2D CSS tricks and 3D with the Threejs library. It was built with longevity in mind, so that future rooms could be added following the rulesets, and it still stands today, although made almost 10 years ago now.
+
+Finally, it is worth mentioning that I built a SPA as an interactive touch display at the Postal Museum. Really fun, and building on from the shoulders learnt from the Soane Museum.
+
+#### Vodafone
+
+At Vodafone, I earned my Enterprise stripes. Following strict Agile principals, ensuring code quality, testing and enjoying the benefits from effective planning regimes and writing User Stories, staying tight with Design and Product departments.
+
+I led a team in the Yearly Hackathon, in which we won. It focused on Accessibility, and picked up a lot of accolade within Digital and opened up plenty of product opportunities.
+
+Within metric data from Datadog it was brought to our attention that we were having drop off at a certain point within the user journey. I looked into the issue, realised it was a Mobile / Backend issue, and worked with a Backend team to rethink how the client could consume their API differently, and by doing so we solved the ongoing issue, increasing yearly sales by 1%.
+
+### 🚀 UI Highlights
+
+- [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
+- [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency
+- [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
+- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
+- [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
+
+### ⏳ History
+
+#### threejjjs
+
+August 2025 - current
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Astro</span>
+  <span>Svelte</span>
+  <span>Video</span>
+  <span>Stripe</span>
+</div>
+
+- Aura Satz (Astro site)
+- Coppermill Rain Garden (Astro site)
+- WYC - Walthamstow Youth Circus (Astro site)
+- Valley of the Cooltrees (Astro site)
+
+#### Semaeopus
+
+July 2024 - July 2025
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Stripe</span>
+  <span>Svelte</span>
+  <span>Fly.io</span>
+  <span>Node | Hono</span>
+  <span>Pocketbase</span>
+  <span>Github workflows</span>
+  <span>Email campaigns</span>
+  <span>UX Design</span>
+  <span>Component Library</span>
+  <span>Github Repo Templates</span>
+</div>
+
+- Launch of game The Oruggin Trail on Itch.io
+- FE & BE infrastructure (node | fly.io)
+- PressKit self generating Markdown sites
+- Game Landing Sites
+
+#### A26
+
+March 2024 - July 2024
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>QA</span>
+  <span>.NET</span>
+  <span>Component Library</span>
+  <span>Figma</span>
+  <span>Accessibility testing</span>
+  <span>Umbraco</span>
+</div>
+
+- FE Components and design layouts for CMS driven corporate clients
+
+#### MMT
+
+December 2023 - March 2024
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Component Library</span>
+  <span>MFE</span>
+  <span>Federated Modules</span>
+  <span>React | RTL</span>
+  <span>Next.js</span>
+</div>
+
+- In-house R&D with Federated modules and Micro Frontends
+- In-house React based component Library
+
+#### Vodafone
+
+August 2018 - November 2023
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Team Lead</span>
+  <span>RTL | Cypress | E2E Testing</span>
+  <span>React | Typescript | Zod</span>
+  <span>AWS | Lambda</span>
+</div>
+
+- See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up
+- Team Lead for the Checkout application
+
+#### ScanLAB Projects
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Vue</span>
+  <span>Three.js</span>
+  <span>AWS | Lambda</span>
+</div>
+
+- 3D experiences
+- Museum and Gallery grade Web applications
+- In-house infrastructure and automation pipelines
+
+### 🕵 Agency work
+
+#### Just-So
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Neverbland
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Bulb
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Shelter
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Harmony Park
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Backbone.js</span>
+</div>
+
+#### Badge of Honour:
+
+<div class="flex flex-col gap-2">
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Vodafone Hackathon winner 2022
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Postal Museum Interactive Display 2017
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Best Tech in Video Award for Farfetch 2014
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
+</div>
+
+<style>
+  :global(html, body) {
+    background: #fefefe;
+  }
+  .headshot {
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    overflow: hidden;
+    img {
+      margin: auto;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center bottom;
+    }
+  }
+  td:nth-child(even) {
+    background-color: var(--color-slate-100);
+  }
+</style>
