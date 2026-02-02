@@ -157,6 +157,7 @@ December 2023 - March 2024
 
 - In-house R&D with Federated modules and Micro Frontends
 - In-house React based component Library
+- Trained in Contentful CMS
 
 #### Vodafone
 
