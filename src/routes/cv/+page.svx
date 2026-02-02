@@ -29,11 +29,7 @@
   </div>
 </div>
 
-> With a Typescript Runtime, design from Tailwind, use any Framework and let's build amazing user experiences - everywhere for everyone
-
 ### 🤙 Contact links
-
-For full skills list please checkout my LinkedIn
 
 <ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
   <li>
@@ -76,11 +72,11 @@ For full skills list please checkout my LinkedIn
 
 ### 🚀 Highlights
 
-- [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency
-- [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency
-- [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract
-- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract
-- [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract
+- [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
+- [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
+- [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract | Astro & Svelte static site, Custom CICD workflow
+- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract | Static Svelte site
+- [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract | Static Svelte site
 
 ### ⏳ History
 
@@ -117,10 +113,17 @@ July 2024 - July 2025
   <span>Github Repo Templates</span>
 </div>
 
-- Launch of game The Oruggin Trail on Itch.io
-- FE & BE infrastructure (node | fly.io)
-- PressKit self generating Markdown sites
-- Game Landing Sites
+- Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway
+- Company BE Infrastructure running on Fly.io
+	- Microsite health dashboard (Svelte)
+	- Custom Wiki/Presskits microsites accesible via Markdown, built on Vanilla JS scripts, Svelte and Github workflows for automatic deployments
+	- Custom Svelte component library, using storybook and npx for rapid DX installs
+	- Custom public storage management system for public media consumption, using AWS S3 with svelteKit
+	- Custom Email capture forms consumable as iFrames, built with Svelte
+	- Custom Email Campaign capture backend, built with HonoJS and Pocketbase
+	- I lead and maintained CSS Design system, keeping all web content and layouts consistent
+- R&D with D3.js for node graphs views, using Svelte
+- Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
 
 #### A26
 
@@ -135,7 +138,10 @@ March 2024 - July 2024
   <span>Umbraco</span>
 </div>
 
-- FE Components and design layouts for CMS driven corporate clients
+* Beautiful top-tier client sites (Corinthia Hotels and Mott MacDonald)
+* Creating HTML and Vanila JS Frontend Components for .NET Umbraco backends. 
+* Following Figma led Design systems.
+* Ensuring pixel perfect responsive designs and best in class HTML semantics and Accessibility tiers, met by working closely to the QA team.
 
 #### MMT
 
@@ -163,8 +169,14 @@ August 2018 - November 2023
   <span>AWS | Lambda</span>
 </div>
 
-- See [LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) for write up
-- Team Lead for the Checkout application
+* Retail Checkout application built with React and Typescript 
+  * Team Lead for the Checkout application
+  * continuous maintaitence and optimnisation
+  * CRO features implemented and architectured alongside our Backend teams Lead 
+  * Ensureance of high performance Accessiblity scores
+  * increase Testing coverage with Cypress and other E2E scoped user journeys
+* New customer Email application built with React running on AWS lambda
+* Cross team maintainer for the in-house React component library used by all of Vodafone digital
 
 #### ScanLAB Projects
 
@@ -174,9 +186,16 @@ August 2018 - November 2023
   <span>AWS | Lambda</span>
 </div>
 
-- 3D experiences
-- Museum and Gallery grade Web applications
-- In-house infrastructure and automation pipelines
+* 2x Museum (web based tech stack) experiences for London Rail mail Museum.
+* Custom in-house Large files (>5gb) AWS S3 uploader (node.js) for clients and in-house usage 
+* Custom video render sign-off and delivery product for Clients
+	* Vue.js frontend
+	* Trello API for dashboard and comment management
+	* Node Express with webhooks backend
+	* AWS transcoder for cloud rendering
+* Soane Museum 3D experience site using three.js and vue.js
+* iPAD accelerometer prototype app which featured in the TV series "Lost treasures of ..."
+* Company brand site, which I lead design and branding for, as well as building a static site generator, like Astro, using markdown, jade and vanilla JS, built on the node.js runtime.
 
 ### 🕵 Agency work
 
