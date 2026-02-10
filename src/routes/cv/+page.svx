@@ -62,7 +62,7 @@
 ### ⚡️ Have I used? (yes)
 
 <div class="flex gap-1 *:text-xs *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 flex-wrap">
-  <span>Blockchain (Starknet)</span>
+  <!-- <span>Blockchain (Starknet)</span> -->
   <span>LLM (OpenAI)</span>
   <span>Stripe (Payments)</span>
   <span>D3.js (Charts)</span>
@@ -122,7 +122,7 @@ July 2024 - July 2025
 	- Custom Email capture forms consumable as iFrames, built with Svelte
 	- Custom Email Campaign capture backend, built with HonoJS and Pocketbase
 	- I lead and maintained CSS Design system, keeping all web content and layouts consistent
-- R&D with D3.js for node graphs views, using Svelte
+- R&D with D3.js for node graph views, using Svelte
 - Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
 
 #### A26
