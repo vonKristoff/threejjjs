@@ -4,9 +4,9 @@
 
 <div class="flex flex-row justify-between items-end">
   <h1>JC Nicolas</h1>
-  <div class="headshot">
+  <!-- <div class="headshot">
     <img src="/threejjjs.webp" alt="JC Nicolas" />
-  </div>
+  </div> -->
 </div>
 
 <div class="flex flex-col">
@@ -46,6 +46,14 @@
     <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
   </li>
 </ul>
+
+### Summary
+
+I am a web developer with over 10 years of experience delivering high-quality digital products across enterprise and agency environments. I work primarily with modern frameworks including React, Vue, and Svelte, supported by tools such as Docker, GitHub Actions, AWS, and self-hosted VPS, cloud, and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
+
+Fluent in Agile methodologies, I am confident working independently or within multidisciplinary teams, contributing to planning cycles, shaping user stories, and collaborating closely with researchers, designers, and engineers. I focus on delivering high-quality, client-facing responsive layouts that meet accessibility and broader semantic web standards.
+
+My experience includes building story-led interactive experiences for museums, maintaining secure payment applications, developing wiki and press kit infrastructure and email campaign systems, and leading the rollout of custom component libraries using Storybook. I rely on a strong vanilla JavaScript foundation to develop creative, effective, and maintainable solutions.
 
 ### 📐 Technical practice
 
