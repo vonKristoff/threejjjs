@@ -27,7 +27,9 @@
   <Intersect bg="light" layout="full-width">
     <section class="">
       <article class="overflow-hidden px-8 py-32 pt-16">
-        <h3 class="relative z-1 text-text-300 text-left text-4xl md:text-6xl">
+        <h3
+          class="relative z-1 text-text-300 text-left text-4xl md:text-6xl gradient-text text-shadow-2xs"
+        >
           🚀 Featured works.
         </h3>
         <div
@@ -85,11 +87,12 @@
       class="relative content-grid mx-auto flex gap-y-16 flex-col px-8 rounded-2xl"
     >
       <div class="flex flex-col gap-4">
-        <span class="text-prime-200 text-4xl font-bold font-primary"
+        <span
+          class="text-prime-200 text-4xl font-bold font-primary gradient-text text-shadow-2xs"
           >Let's keep talking...</span
         >
         <p class="message">
-          A <strong>keep it simple</strong> first Studio, open to
+          A <strong>keep-it-simple-studio</strong>, open to
           <strong>collaborate</strong>
           with
           <span class="bg-pop-100">product | design</span> and deliver
@@ -101,7 +104,8 @@
         Together, let's make digital (<strong>story driven</strong> and brilliant).
       </p>
       <div class="flex flex-col gap-4">
-        <span class="text-prime-200 text-4xl font-bold font-primary"
+        <span
+          class="text-prime-200 text-4xl font-bold font-primary gradient-text text-shadow-2xs"
           >What's in the bag?</span
         >
         <p class="message">
@@ -151,5 +155,31 @@
       height: 0;
       width: 0;
     }
+  }
+  .gradient-text {
+    position: relative;
+    display: inline-block;
+    color: inherit; /* Base text color */
+    background: linear-gradient(
+      to right,
+      currentColor 50%,
+      currentColor 0%,
+      #ff6b6b 50%,
+      #ff6b6b 60%,
+      #4ecdc4 60%,
+      #4ecdc4 70%,
+      #45b7d1 70%,
+      #45b7d1 80%,
+      #96ceb4 80%,
+      #96ceb4 90%,
+      #ffeaa7 90%,
+      #ffeaa7 100%
+    );
+    background-size: 200% 100%;
+    background-position: 100% 0%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: background-position 0.3s ease;
   }
 </style>
