@@ -95,9 +95,9 @@
           A <strong>keep-it-simple-studio</strong>, open to
           <strong>collaborate</strong>
           with
-          <span class="bg-pop-100">product | design</span> and deliver
+          <span class="bg-pop-200">product & design</span> and deliver
           satisfying interactions on the
-          <strong>web</strong>, mobile and cloud.
+          <strong>web</strong>, from CMS driven store fronts to payment rails.
         </p>
       </div>
       <p class="breakout italic bg-pop-100 p-8 rounded-lg">
@@ -110,9 +110,9 @@
         >
         <p class="message">
           With <strong>10+</strong> years of
-          <span class="bg-pop-100">development</span>
+          <span class="bg-pop-200">development</span>
           experience, including deployment cycles and
-          <strong>team leadership</strong>.
+          <strong>team leadership</strong>. Agile all the way home.
         </p>
       </div>
     </div>
@@ -143,7 +143,7 @@
   .message {
     line-height: 1.5em;
     padding-left: 1em;
-    border-left: 0.125em solid var(--color-prime-200);
+    border-left: 0.25em solid #d95b5b;
   }
   @media (max-width: 768px) {
     .hero {
