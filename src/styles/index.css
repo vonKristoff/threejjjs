@@ -14,8 +14,10 @@ a {
   cursor: pointer;
 }
 
-html,
-body {
+[data-layout="white"] {
+  @apply bg-neutral-200;
+}
+[data-layout="standard"] {
   @apply bg-wash-100;
 }
 
