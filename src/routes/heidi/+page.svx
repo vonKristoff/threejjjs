@@ -1,0 +1,266 @@
+<!-- <script>
+  import head from "../../lib/assets/threejjjs.jpg";
+</script> -->
+
+<div class="flex flex-row justify-between items-end">
+  <h1>JC Nicolas</h1>
+  <!-- <div class="headshot">
+    <img src="/threejjjs.webp" alt="JC Nicolas" />
+  </div> -->
+</div>
+
+<div class="flex flex-col">
+  <div class="flex gap-4">
+    <span>📚</span>
+    <strong class="hidden md:block">Experience:</strong>
+    <span class="w-full md:text-right">
+      Senior Developer 10+ years (Enterprise & Agency)
+    </span>
+  </div>
+  <div class="flex gap-4">
+    <span>✨</span>
+    <strong class="hidden md:block">Specialisation:</strong>
+    <span class="w-full md:text-right">FE & Product</span>
+  </div>
+  <div class="flex gap-4">
+    <span>📍</span>
+    <strong class="hidden md:block">Location:</strong>
+    <span class="w-full md:text-right">London, UK</span>
+  </div>
+</div>
+
+### 🤙 Contact links
+
+<ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
+  <li>
+    <a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/vonKristoff/">
+      Github
+    </a>
+  </li>
+  <li>
+    <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
+  </li>
+</ul>
+
+### Summary
+
+**I'm great at taking product/design concepts and creating polished and responsive UI's.**
+
+I would like to foremost address that I feel like I could be a really good fit with Heidi. What you are looking for are what I consider my strengths, and where I get a lot of enjoyment from being a Frontend developer. I really enjoy making UI components, and have begun the path exploring code assistance with AI, and its ever pervasive adoption, and the many questions it leads us to ask. Working with SSR frameworks, Tailwind, consuming API endpoints and browser optimisation are my kind of day to day. 
+
+I am a web developer with over 10 years of experience delivering high-quality digital products across enterprise and agency environments. I work primarily with modern frameworks including React, Vue, and Svelte, supported by tools such as Docker, GitHub Actions, AWS, and self-hosted VPS, cloud, and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
+
+Fluent in Agile methodologies, I am confident working independently or within multidisciplinary teams, contributing to planning cycles, shaping user stories, and collaborating closely with researchers, designers, and engineers. I focus on delivering high-quality, client-facing responsive layouts that meet accessibility and broader semantic web standards.
+
+<!-- My experience includes building story-led interactive experiences for museums, maintaining secure payment applications, developing wiki and press kit infrastructure and email campaign systems, and leading the rollout of custom component libraries using Storybook. I rely on a strong vanilla JavaScript foundation to develop creative, effective, and maintainable solutions. -->
+
+### 📐 Technical practice
+
+| Development                       | Design UX/UI                    | Process                    |
+| --------------------------------- | ------------------------------- | -------------------------- |
+| Typescript                        | Following Figma designs         | Agile methodolgies         |
+| React \| Svelte \| Astro          | Implementing Design systems     | Defining User Stories      |
+| Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows             |
+| RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot         |
+| Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
+| Vercel \| Railway \| AWS          | Responsive Layouts              | Jira \| Azure \| Linear    |
+| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 |
+
+### 🚀 Highlights
+
+- [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
+- [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
+- [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract | Astro & Svelte static site, Custom CICD workflow
+- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract | Static Svelte site
+- [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract | Static Svelte site
+
+### ⏳ History
+
+#### threejjjs
+
+August 2025 - current
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Astro</span>
+  <span>Svelte</span>
+  <span>Video</span>
+  <span>Stripe</span>
+</div>
+
+- Aura Satz (Astro site)
+- Coppermill Rain Garden (Astro site)
+- WYC - Walthamstow Youth Circus (Astro site)
+- Valley of the Cooltrees (Astro site)
+
+#### Semaeopus
+
+July 2024 - July 2025
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Stripe</span>
+  <span>Svelte</span>
+  <span>Fly.io</span>
+  <span>Node | Hono</span>
+  <span>Pocketbase</span>
+  <span>Github workflows</span>
+  <span>Email campaigns</span>
+  <span>UX Design</span>
+  <span>Component Library</span>
+  <span>Github Repo Templates</span>
+</div>
+
+- Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway
+- Company BE Infrastructure running on Fly.io
+	- Microsite health dashboard (Svelte)
+	- Custom Wiki/Presskits microsites accesible via Markdown, built on Vanilla JS scripts, Svelte and Github workflows for automatic deployments
+	- Custom Svelte component library, using storybook and npx for rapid DX installs
+	- Custom public storage management system for public media consumption, using AWS S3 with svelteKit
+	- Custom Email capture forms consumable as iFrames, built with Svelte
+	- Custom Email Campaign capture backend, built with HonoJS and Pocketbase
+	- I lead and maintained CSS Design system, keeping all web content and layouts consistent
+- R&D with D3.js for node graph views, using Svelte
+- Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
+
+#### A26
+
+March 2024 - July 2024
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>QA</span>
+  <span>.NET</span>
+  <span>Component Library</span>
+  <span>Figma</span>
+  <span>Accessibility testing</span>
+  <span>Umbraco</span>
+</div>
+
+* Beautiful top-tier client sites (Corinthia Hotels and Mott MacDonald)
+* Creating HTML and Vanila JS Frontend Components for .NET Umbraco backends. 
+* Following Figma led Design systems.
+* Ensuring pixel perfect responsive designs and best in class HTML semantics and Accessibility tiers, met by working closely to the QA team.
+
+#### MMT
+
+December 2023 - March 2024
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Component Library</span>
+  <span>MFE</span>
+  <span>Federated Modules</span>
+  <span>React | RTL</span>
+  <span>Next.js</span>
+</div>
+
+- In-house R&D with Federated modules and Micro Frontends
+- In-house React based component Library
+- Trained in Contentful CMS
+
+#### Vodafone
+
+August 2018 - November 2023
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Team Lead</span>
+  <span>RTL | Cypress | E2E Testing</span>
+  <span>React | Typescript | Zod</span>
+  <span>AWS | Lambda</span>
+</div>
+
+* Retail Checkout application built with React and Typescript - serving 100s of daily customers!
+  * Team Lead for the Checkout application
+  * continuous maintaitence and optimnisation
+  * CRO features implemented and architectured alongside our Backend teams Lead 
+  * Ensureance of high performance Accessiblity scores
+  * increase Testing coverage with Cypress and other E2E scoped user journeys
+* New customer Email application built with React running on AWS lambda
+* Cross team maintainer for the in-house React component library used by all of Vodafone digital
+
+#### ScanLAB Projects
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Vue</span>
+  <span>Three.js</span>
+  <span>AWS | Lambda</span>
+</div>
+
+* 2x Museum (web based tech stack) experiences for London Rail mail Museum.
+* Custom in-house Large files (>5gb) AWS S3 uploader (node.js) for clients and in-house usage 
+* Custom video render sign-off and delivery product for Clients
+	* Vue.js frontend
+	* Trello API for dashboard and comment management
+	* Node Express with webhooks backend
+	* AWS transcoder for cloud rendering
+* Soane Museum 3D experience site using three.js and vue.js
+* iPAD accelerometer prototype app which featured in the TV series "Lost treasures of ..."
+* Company brand site, which I lead design and branding for, as well as building a static site generator, like Astro, using markdown, jade and vanilla JS, built on the node.js runtime.
+
+### 🕵 Agency work
+
+#### Just-So
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Neverbland
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Bulb
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Shelter
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>React</span>
+</div>
+
+#### Harmony Park
+
+<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Backbone.js</span>
+</div>
+
+#### Badge of Honour:
+
+<div class="flex flex-col gap-2">
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Vodafone Hackathon winner 2022
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Postal Museum Interactive Display 2017
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">
+    Best Tech in Video Award for Farfetch 2014
+  </span>
+  <span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
+</div>
+
+<style>
+  .headshot {
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    overflow: hidden;
+    img {
+      margin: auto;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center bottom;
+    }
+  }
+  td:nth-child(even) {
+    background-color: var(--color-slate-100);
+  }
+</style>
