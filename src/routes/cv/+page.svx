@@ -180,7 +180,7 @@ August 2018 - November 2023
   <span>AWS | Lambda</span>
 </div>
 
-* Retail Checkout application built with React and Typescript 
+* Retail Checkout application built with React and Typescript - serving 100s of daily customers!
   * Team Lead for the Checkout application
   * continuous maintaitence and optimnisation
   * CRO features implemented and architectured alongside our Backend teams Lead 
