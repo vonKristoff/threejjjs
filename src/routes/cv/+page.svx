@@ -49,7 +49,7 @@
 
 ### Summary
 
-**I am great at turning product/design concepts into polished and responsive UI.**
+**I'm great at taking product/design concepts and creating polished and responsive UI's.**
 
 I am a web developer with over 10 years of experience delivering high-quality digital products across enterprise and agency environments. I work primarily with modern frameworks including React, Vue, and Svelte, supported by tools such as Docker, GitHub Actions, AWS, and self-hosted VPS, cloud, and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
 
