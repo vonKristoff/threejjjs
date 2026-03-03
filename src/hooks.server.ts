@@ -14,15 +14,16 @@ const addHtmlAttributes = (html: string, attrs: HTMLAttributes) =>
   );
 
 export const handle: Handle = async ({ event, resolve }) => {
-  let slug = event.route.id?.split("/").join("");
-  let layout: HTMLAttributes["data-layout"] =
-    slug !== "" ? "white" : "standard";
-  const response = await resolve(event, {
-    transformPageChunk: ({ html }) =>
-      addHtmlAttributes(html, {
-        "data-layout": layout,
-        "data-theme": "light",
-      }),
-  });
-  return response;
+  // let slug = event.route.id?.split("/").join("");
+  // let layout: HTMLAttributes["data-layout"] =
+  //   slug !== "" ? "white" : "standard";
+  // const response = await resolve(event, {
+  //   transformPageChunk: ({ html }) =>
+  //     addHtmlAttributes(html, {
+  //       "data-layout": layout,
+  //       "data-theme": "light",
+  //     }),
+  // });
+  // return response;
+  return await resolve(event);
 };

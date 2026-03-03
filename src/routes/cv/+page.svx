@@ -75,7 +75,7 @@ I have been working with AI workflows, using OpenCode and a respective Agent wit
 
 <div class="flex gap-1 *:text-xs *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 flex-wrap">
   <!-- <span>Blockchain (Starknet)</span> -->
-  <span>LLM (OpenAI)</span>
+  <span>LLM (OpenAI | Claude)</span>
   <span>Stripe (Payments)</span>
   <span>D3.js (Charts)</span>
   <span>Three.js (3D)</span>

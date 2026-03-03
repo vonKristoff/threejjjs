@@ -14,12 +14,10 @@ a {
   cursor: pointer;
 }
 
-[data-layout="white"] {
+[data-theme="light"] {
   @apply bg-neutral-200;
 }
-[data-layout="standard"] {
-  @apply bg-wash-100;
-}
+
 
 blockquote {
   border-left: 4px solid var(--accent);
