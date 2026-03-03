@@ -1,11 +1,4 @@
 @layer base {
-  /* main {
-		@apply p-2;
-		@apply md:p-0;
-	} */
-}
-
-@layer base {
   body {
     @apply text-text-200;
     @apply font-secondary;
