@@ -3,7 +3,7 @@
 </script> -->
 
 <div class="flex flex-row justify-between items-end">
-  <h1>JC Nicolas</h1>
+  <!-- <h1>JC Nicolas</h1> -->
   <!-- <div class="headshot">
     <img src="/threejjjs.webp" alt="JC Nicolas" />
   </div> -->
@@ -22,14 +22,14 @@
     <strong class="hidden md:block">Specialisation:</strong>
     <span class="w-full md:text-right">FE & Product</span>
   </div>
-  <div class="flex gap-4">
+  <!-- <div class="flex gap-4">
     <span>📍</span>
     <strong class="hidden md:block">Location:</strong>
     <span class="w-full md:text-right">London, UK</span>
-  </div>
+  </div> -->
 </div>
 
-### 🤙 Contact links
+<!-- ### 🤙 Contact links
 
 <ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
   <li>
@@ -45,17 +45,28 @@
   <li>
     <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
   </li>
-</ul>
+</ul> -->
+
 
 ### Summary
 
-**I'm great at taking product/design concepts and creating polished and responsive UI's.**
+Specialising in performance optimisation and scalable system design. Applied Modern Standards Approach by designing accessible, WCAG 2.1 AA-compliant interfaces within established design systems, ensuring semantic HTML, advocated for web standards, browser APIs to build flexible, scalable architectures. Architect solutions across the stack using TypeScript, React, and Node.js, with a track record of delivering measurable business impact through technical problem-solving.
 
-I am a web developer with over 10 years of experience delivering high-quality digital products across enterprise and agency environments. I work primarily with modern frameworks including React, Vue, and Svelte, supported tools such as Docker, GitHub Actions, AWS, and self-hosted VPS, cloud, and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
+Reduced page load times by 56% by introducing Web Workers for heavy API processing and selecting optimal data-fetching strategies (SSR, client-side, WebSockets/GraphQL). Resolved a critical mobile compatibility issue that increased conversion rates and yearly sales by 2%. Built AWS Lambda functions and client-facing applications with CI/CD pipelines (Azure) and comprehensive testing (Cypress).
 
-Fluent in Agile methodologies, I am confident working independently or within multidisciplinary teams, contributing to planning cycles, shaping user stories, and collaborating closely with researchers, designers, and engineers. I focus on delivering high-quality, client-facing responsive layouts that meet accessibility and broader semantic web standards.
+Led P1 incident responses, diagnosing cross-system issues and implementing rollbacks to minimise downtime. Designed GDPR-compliant systems for sensitive financial data, implementing access controls, secure logging, and feature flags for incremental rollouts.
 
-I have been working with AI workflows, using OpenCode and a respective Agent within a Docker container for safety practice when enabling "dangerious permissions". 
+Defined technical direction through roadmaps and user stories, balancing feature delivery with maintainability. Led a React codebase migration to functional components, improving consistency and developer experience. Advocate for web standards, ORMs, and loosely coupled architectures that support evolving requirements.
+
+<!-- **I'm great at taking product/design concepts and creating polished and responsive UI's.**
+
+I am a web developer with over 10 years of experience delivering performant digital products across enterprise and agency environments. With strong vanilla JavaScript expertise, with a focus on core language fundamentals and performance-oriented patterns, I work primarily with modern frameworks including React, Vue, and Svelte, supported tools such as Docker, GitHub Actions, AWS/Azure/self-hosted cloud and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
+
+Fluent in Agile methodologies, I am confident working independently or within multidisciplinary teams, contributing to planning cycles, shaping user stories, and collaborating closely with researchers, designers, and engineers. I have led up to 10 in a FE team, delivering consistent velocity metrics, in fact my team at Vodafone stood out from the rest on this.  
+
+I'm personally proud about delivering high-quality, client-facing responsive layouts that meet WCAG accessibility and broader semantic web standards, including CSS mastery. -->
+
+<!-- I have been working with AI workflows, using OpenCode and a respective Agent within a Docker container for safety practice when enabling "dangerious permissions".  -->
 
 ### 📐 Technical practice
 
@@ -71,18 +82,18 @@ I have been working with AI workflows, using OpenCode and a respective Agent wit
 | Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear    |
 | Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 |
 
-### ⚡️ Have I used? (yes)
+<!-- ### ⚡️ Have I used? (yes) -->
 
-<div class="flex gap-1 *:text-xs *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 flex-wrap">
+<!-- <div class="flex gap-1 *:text-xs *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 flex-wrap"> -->
   <!-- <span>Blockchain (Starknet)</span> -->
-  <span>LLM (OpenAI | Claude)</span>
+  <!-- <span>LLM (OpenAI | Claude)</span>
   <span>Stripe (Payments)</span>
   <span>D3.js (Charts)</span>
   <span>Three.js (3D)</span>
-  <span>Drizzle (Orm)</span>
-</div>
+  <span>Drizzle (Orm)</span> -->
+<!-- </div> -->
 
-### 🚀 Highlights
+### 🚀 UI Highlights
 
 - [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
 - [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components

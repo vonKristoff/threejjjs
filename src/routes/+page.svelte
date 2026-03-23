@@ -101,7 +101,7 @@
         </p>
       </div>
       <p class="breakout italic bg-pop-100 p-8 rounded-lg">
-        Together, let's make digital (<strong>story driven</strong> and brilliant).
+        HUMANS UNITE! Let's do this, together
       </p>
       <div class="flex flex-col gap-4">
         <span
