@@ -38,6 +38,7 @@
           <div class="flex flex-col gap-8 lg:gap-12 xl:gap-16 relative z-1">
             <Highlights ctx="motmac" />
             <Highlights ctx="corin" />
+            <Highlights ctx="vender" />
           </div>
           <Spintersect>
             <div
@@ -46,11 +47,13 @@
             >
               <Highlights ctx="scanlab" />
               <Highlights ctx="soane" />
+              <Highlights ctx="cooltrees" />
             </div>
           </Spintersect>
           <div class="flex flex-col gap-8 lg:gap-12 xl:gap-16 relative z-1">
             <Highlights ctx="wawb" />
             <Highlights ctx="archetypal" />
+            <Highlights ctx="techsup" />
           </div>
         </div>
       </article>

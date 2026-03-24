@@ -1,60 +1,84 @@
 {
-	"highlights": {
-		"motmac": {
-			"title": "Mott Macdonald",
-			"client": "A26",
-			"role": "FE Developer",
-			"url": "https://www.mottmac.com",
-			"thumb": "MOTMAC",
-			"tags": ["FE Components"]
-		},
-		"corin": {
-			"title": "Corinthia Hotels",
-			"client": "A26",
-			"role": "FE Developer",
-			"url": "https://www.corinthia.com/",
-			"thumb": "CORIN",
-			"tags": ["FE Components"]
-		},
-		"scanlab": {
-			"title": "ScanLAB Projects",
-			"client": "ScanLAB Projects",
-			"role": "Web Developer",
-			"url": "https://scanlabprojects.co.uk/",
-			"thumb": "SCANLAB",
-			"tags": ["Astro", "Design & Development", "CI/CD"]
-		},
-		"soane": {
-			"title": "Soane Museum",
-			"client": "ScanLAB Projects",
-			"role": "Software Engineer",
-			"url": "https://explore.soane.org/",
-			"thumb": "SOANE",
-			"tags": ["Vue", "Design & Development", "three.js"]
-		},
-		"wawb": {
-			"title": "What Are We Building",
-			"client": "threejjjs",
-			"role": "Web Developer",
-			"url": "https://walthamstow.whatarewebuilding.xyz/",
-			"thumb": "WAWB",
-			"tags": ["Design & Development"]
-		},
-		"archetypal": {
-			"title": "Archetypal Tech",
-			"client": "Semaeoupus",
-			"role": "Front End Engineer",
-			"url": "https://archetypaltech.com/",
-			"thumb": "ARCH",
-			"tags": ["Design & Development", "FE Components", "UX/UI"]
-		},
-		"presskit": {
-			"title": "PressKit infrastructure",
-			"client": "Semaeopus",
-			"role": "Front End Engineer",
-			"url": "https://press.oruggintrail.com/",
-			"thumb": "PRESSKIT",
-			"tags": ["Design & Development", "Markdown", "CI/CD"]
-		}
-	}
+  "highlights": {
+    "motmac": {
+      "title": "Mott Macdonald",
+      "client": "A26",
+      "role": "FE Developer",
+      "url": "https://www.mottmac.com",
+      "thumb": "MOTMAC",
+      "tags": ["FE Components"]
+    },
+    "corin": {
+      "title": "Corinthia Hotels",
+      "client": "A26",
+      "role": "FE Developer",
+      "url": "https://www.corinthia.com/",
+      "thumb": "CORIN",
+      "tags": ["FE Components"]
+    },
+    "scanlab": {
+      "title": "ScanLAB Projects",
+      "client": "ScanLAB Projects",
+      "role": "Web Developer",
+      "url": "https://scanlabprojects.co.uk/",
+      "thumb": "SCANLAB",
+      "tags": ["Astro", "Design & Development", "CI/CD"]
+    },
+    "soane": {
+      "title": "Soane Museum",
+      "client": "ScanLAB Projects",
+      "role": "Software Engineer",
+      "url": "https://explore.soane.org/",
+      "thumb": "SOANE",
+      "tags": ["Vue", "Design & Development", "three.js"]
+    },
+    "wawb": {
+      "title": "What Are We Building",
+      "client": "threejjjs",
+      "role": "Web Developer",
+      "url": "https://walthamstow.whatarewebuilding.xyz/",
+      "thumb": "WAWB",
+      "tags": ["Design & Development"]
+    },
+    "archetypal": {
+      "title": "Archetypal Tech",
+      "client": "Semaeoupus",
+      "role": "Front End Engineer",
+      "url": "https://archetypaltech.com/",
+      "thumb": "ARCH",
+      "tags": ["Design & Development", "FE Components", "UX/UI"]
+    },
+    "presskit": {
+      "title": "PressKit infrastructure",
+      "client": "Semaeopus",
+      "role": "Front End Engineer",
+      "url": "https://press.oruggintrail.com/",
+      "thumb": "PRESSKIT",
+      "tags": ["Design & Development", "Markdown", "CI/CD"]
+    },
+    "cooltrees": {
+      "title": "Valley of the Cooltrees",
+      "client": "Cwmcoedoeron",
+      "role": "Web Developer",
+      "url": "https://cooltrees.net/",
+      "thumb": "COOL",
+      "tags": ["Design & Development", "Astro"]
+    },
+    "techsup": {
+      "title": "Tech Support!",
+      "client": "Tech Support Interactive",
+      "role": "Web Developer",
+      "url": "https://techsup.uk/",
+      "thumb": "TECHSUP",
+      "tags": ["Design & Development"]
+    },
+    "vender": {
+      "title": "Vender Blender",
+      "client": "Tech Support!",
+      "role": "AI Engineer",
+      "url": "https://venn.threejjjs.xyz/",
+      "thumb": "VENN",
+      "tags": ["Design & Development", "API"]
+    }
+  }
 }
