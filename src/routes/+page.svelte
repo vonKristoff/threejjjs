@@ -1,6 +1,6 @@
 <script>
   import Navigator from "$lib/components/header/Navigator.svelte";
-  // import hero from "$lib/assets/threejjjs.jpg";
+  import { Chatbot } from "$lib/components/chatbot/index.js";
   import Highlights from "$lib/components/Highlights.svelte";
   import Intersect from "$lib/components/Intersect.svelte";
   import Spintersect from "$lib/components/Spintersect.svelte";
@@ -10,6 +10,9 @@
 
 <!-- style={`background-image:url(${hero})`} -->
 <Navigator />
+<aside class="h-screen fixed py-24" class:active={global.sidebar}>
+  <Chatbot title="Chef Assistant" placeholder="daal with a rhubarb salad" />
+</aside>
 <main class="content-grid">
   <Intersect bg="dark" layout="full-width">
     <section class="grid place-content-center h-dvh bg-prime-200">
@@ -124,6 +127,21 @@
 <Footer />
 
 <style>
+  main {
+    transition: transform 0.3s;
+  }
+  aside {
+    transition: all 0.3s;
+    width: 60ch;
+    max-width: 100%;
+    transform: translateX(-100%);
+  }
+  .active {
+    transform: translateX(0%);
+  }
+  .active + main {
+    transform: translateX(60ch);
+  }
   .hero {
     max-width: calc(100vw - 4em);
     max-height: 50dvh;
