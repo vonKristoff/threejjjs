@@ -15,6 +15,7 @@
 		"svg": "npx svg-symbol-sprite -i ./icons -o ./static/sprites.svg"
 	},
 	"devDependencies": {
+		"@sveltejs/adapter-node": "^5.5.4",
 		"@sveltejs/adapter-static": "^3.0.10",
 		"@sveltejs/kit": "^2.48.5",
 		"@sveltejs/vite-plugin-svelte": "^6.2.1",
