@@ -18,7 +18,10 @@ a {
   @apply bg-neutral-200;
 }
 
-body:has(aside.active) {
+body:has(#chatwindow.active) {
+  overflow: hidden;
+}
+html:has(#chatwindow.active) {
   overflow: hidden;
 }
 

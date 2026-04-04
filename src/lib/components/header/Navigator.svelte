@@ -6,12 +6,13 @@
 </script>
 
 <header
-  class="flex fixed top-0 w-full p-8 text-2xl md:text-4xl backdrop-blur-2xl z-10"
+  class="flex items-center fixed top-0 w-full p-8 text-xl md:text-4xl backdrop-blur-2xl z-10"
   class:lighten={global.ambience === "lighten"}
   class:darken={global.ambience === "darken"}
 >
   <aside class="shrink-0 text-md">
     <button
+      data-chat-cta
       class="overflow-hidden"
       class:active={global.sidebar}
       onclick={() => global.toggleSidebar()}
@@ -21,7 +22,7 @@
     </button>
   </aside>
   <nav class="grow">
-    <div class="flex justify-center px-2 md:px-0">
+    <div class="flex justify-center px-8 md:px-0">
       REMAIN CURIOUS | ZIG WHEN THEY ZAG
     </div>
   </nav>
@@ -41,33 +42,33 @@
   .darken {
     color: var(--color-text-300);
   }
-  button {
+  button[data-chat-cta] {
     position: relative;
     overflow: hidden;
     display: inline-flex;
   }
 
-  button :global(svg) {
+  button[data-chat-cta] :global(svg) {
     transition: transform 0.3s ease;
   }
 
   /* Default state - cpu visible, x hidden to the right */
-  button :global(svg:first-child) {
+  button[data-chat-cta] :global(svg:first-child) {
     transform: translateX(0);
   }
 
-  button :global(svg:last-child) {
+  button[data-chat-cta] :global(svg:last-child) {
     transform: translateX(100%);
     position: absolute;
     left: 0;
   }
 
   /* Active state - cpu slides left out, x slides in */
-  button.active :global(svg:first-child) {
+  button[data-chat-cta].active :global(svg:first-child) {
     transform: translateX(-100%);
   }
 
-  button.active :global(svg:last-child) {
+  button[data-chat-cta].active :global(svg:last-child) {
     transform: translateX(0);
   }
 </style>

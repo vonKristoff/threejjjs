@@ -10,7 +10,11 @@
 
 <!-- style={`background-image:url(${hero})`} -->
 <Navigator />
-<aside class="h-screen fixed py-24" class:active={global.sidebar}>
+<aside
+  id="chatwindow"
+  class="h-screen fixed py-24"
+  class:active={global.sidebar}
+>
   <Chatbot title="Chef Assistant" placeholder="daal with a rhubarb salad" />
 </aside>
 <main class="content-grid">
@@ -130,17 +134,19 @@
   main {
     transition: transform 0.3s;
   }
-  aside {
+  #chatwindow {
     transition: all 0.3s;
     width: 60ch;
     max-width: 100%;
     transform: translateX(-100%);
+    overflow: hidden;
   }
-  .active {
+  #chatwindow.active {
     transform: translateX(0%);
   }
-  .active + main {
+  #chatwindow.active + main {
     transform: translateX(60ch);
+    overflow-y: hidden;
   }
   .hero {
     max-width: calc(100vw - 4em);
