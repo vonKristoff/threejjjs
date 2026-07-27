@@ -9,6 +9,15 @@ const config = {
   preprocess: [vitePreprocess(), mdsvex()],
   kit: {
     adapter: adapter(),
+    prerender: {
+      handleHttpError: ({ path, referrer, message }) => {
+        // ignore missing thumbs
+        if (path.startsWith("/thumbs/")) {
+          return;
+        }
+        throw new Error(message);
+      },
+    },
     // {
     //   pages: "build",
     //   assets: "build",
