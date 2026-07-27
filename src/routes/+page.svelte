@@ -45,7 +45,7 @@
           <div class="flex flex-col gap-8 lg:gap-12 xl:gap-16 relative z-1">
             <Highlights ctx="motmac" />
             <Highlights ctx="corin" />
-            <Highlights ctx="vender" />
+            <Highlights ctx="sayit" />
           </div>
           <Spintersect>
             <div
@@ -111,7 +111,10 @@
         </p>
       </div>
       <p class="breakout italic bg-pop-100 p-8 rounded-lg">
-        HUMANS UNITE! Let's do this, together
+        "JC is a brilliant Tech Lead and Software Engineer with an incredible
+        attention to detail, empathy and people skills. He led a team that I
+        managed flawlessly with minimal intervention and always proactively
+        looked at problems and possible solutions."
       </p>
       <div class="flex flex-col gap-4">
         <span
