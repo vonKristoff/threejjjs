@@ -3,7 +3,7 @@
 </script> -->
 
 <div class="flex flex-row justify-between items-end">
-  <!-- <h1>JC Nicolas</h1> -->
+  <h1>JC Nicolas</h1>
   <!-- <div class="headshot">
     <img src="/threejjjs.webp" alt="JC Nicolas" />
   </div> -->
@@ -22,19 +22,24 @@
     <strong class="hidden md:block">Specialisation:</strong>
     <span class="w-full md:text-right">FE & Product</span>
   </div>
-  <!-- <div class="flex gap-4">
+  <div class="flex gap-4">
     <span>📍</span>
     <strong class="hidden md:block">Location:</strong>
     <span class="w-full md:text-right">London, UK</span>
-  </div> -->
+  </div>
 </div>
 
-<!-- ### 🤙 Contact links
+### 🤙 Contact links
 
 <ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
   <li>
     <a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">
       LinkedIn
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="https://threejjjs.xyz">
+      Portfolio
     </a>
   </li>
   <li>
@@ -45,18 +50,30 @@
   <li>
     <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
   </li>
-</ul> -->
+</ul>
+
+### 🏄 Introduction
+
+As a parent, I really understand the frustration and difficulty of communications from school services and general messaging, and would relish the opportunity to be part of helping making progressive change in this sector. 
+
+I have a background in design, and am big on collaborating with product, as well as huge experience in accessibility compliance and excellent CSS skills bringing any responsive layout to life. I have worked across many in house component libraries and all kinds of various CMS systems, working alongside BE teams and building semantic templates ready for any kind of front end framework for the platform UI.
+
+I can be autonomous, as well as lead teams with encouragement and clarity especially when forged with a communicative production team. I embrace working with AI assistance, and would love to see how we can such tools to improve the connection between parents and their child's future education.
 
 
-### Summary
 
-Specialising in performance optimisation and scalable system design. Applied Modern Standards Approach by designing accessible, WCAG 2.1 AA-compliant interfaces within established design systems, ensuring semantic HTML, advocated for web standards, browser APIs to build flexible, scalable architectures. Architect solutions across the stack using TypeScript, React, and Node.js, with a track record of delivering measurable business impact through technical problem-solving.
 
-Reduced page load times by 56% by introducing Web Workers for heavy API processing and selecting optimal data-fetching strategies (SSR, client-side, WebSockets/GraphQL). Resolved a critical mobile compatibility issue that increased conversion rates and yearly sales by 2%. Built AWS Lambda functions and client-facing applications with CI/CD pipelines (Azure) and comprehensive testing (Cypress).
 
-Led P1 incident responses, diagnosing cross-system issues and implementing rollbacks to minimise downtime. Designed GDPR-compliant systems for sensitive financial data, implementing access controls, secure logging, and feature flags for incremental rollouts.
+<!-- Specialising in performance optimisation and scalable system design.  -->
+<!-- Applying standards by designing accessible, WCAG compliant interfaces within established design systems, ensuring semantic HTML, advocated for web standards, browser APIs to build flexible, scalable architectures.  -->
+<!-- Defined technical direction through roadmaps and user stories, balancing feature delivery with maintainability.  -->
 
-Defined technical direction through roadmaps and user stories, balancing feature delivery with maintainability. Led a React codebase migration to functional components, improving consistency and developer experience. Advocate for web standards, ORMs, and loosely coupled architectures that support evolving requirements.
+
+<!-- Architect solutions across the stack using TypeScript, React, and Node.js, with a track record of delivering measurable business impact through technical problem-solving. -->
+
+<!-- * Secured a 1 month R&D residency with Starknet in the USA, exploring LLMs and graph nodes. -->
+
+
 
 <!-- **I'm great at taking product/design concepts and creating polished and responsive UI's.**
 
@@ -68,7 +85,7 @@ I'm personally proud about delivering high-quality, client-facing responsive lay
 
 <!-- I have been working with AI workflows, using OpenCode and a respective Agent within a Docker container for safety practice when enabling "dangerious permissions".  -->
 
-### 📐 Technical practice
+<!-- ### 📐 Technical practice
 
 **AI: Using sandboxed OpenCode environments with Agent subscription.**
 
@@ -80,7 +97,7 @@ I'm personally proud about delivering high-quality, client-facing responsive lay
 | RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot         |
 | Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
 | Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear    |
-| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 |
+| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 | -->
 
 <!-- ### ⚡️ Have I used? (yes) -->
 
@@ -99,33 +116,47 @@ I'm personally proud about delivering high-quality, client-facing responsive lay
 - [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
 - [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract | Astro & Svelte static site, Custom CICD workflow
 - [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract | Static Svelte site
-- [Archetypal Tech](https://archetypaltech.com) | Semaeopus | Contract | Static Svelte site
+- [Valley of the cool trees](https://cooltrees.net) | threejjjs | Contract | Static Svelte site
+
+### ⚙️ Technical highlights
+
+* Reduced page load times by 56% by introducing Web Workers for heavy API processing and selecting optimal data-fetching strategies (SSR, lazy, WebSockets/GraphQL). 
+* Resolved a critical mobile compatibility issue that increased conversion rates and yearly sales by 2%.
+* Executed 10+ CRO initiatives with >70% success rate.
+* Built AWS Lambda functions and client-facing applications with CI/CD pipelines (Azure) and comprehensive testing (Cypress).
+* Led P1 incident responses, diagnosing cross-system issues and implementing rollbacks to minimise downtime. 
+* Designed GDPR-compliant systems for sensitive financial data, implementing access controls, secure logging, and feature flags for incremental rollouts.
+* Led a React codebase migration to functional components, improving consistency and developer experience.
+* Won a Vodafone hackathon, securing business funding to develop and adopt the idea out to other teams across the company.
 
 ### ⏳ History
 
-#### threejjjs
+#### threejjjs Interactive
 
-August 2025 - current
+August 2025 - current,
+*Contractor*
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Astro</span>
   <span>Svelte</span>
-  <span>Video</span>
   <span>Stripe</span>
 </div>
 
-- Aura Satz (Astro site)
+<!-- - Aura Satz (Astro site)
 - Coppermill Rain Garden (Astro site)
 - WYC - Walthamstow Youth Circus (Astro site)
-- Valley of the Cooltrees (Astro site)
+- Valley of the Cooltrees (Astro site) -->
 
-#### Semaeopus
+#### Semaeopus `Games Studio`
 
-July 2024 - July 2025
+July 2024 - July 2025,
+*Product Engineer*
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Stripe</span>
+  <!-- <span>Stripe</span> -->
   <span>Svelte</span>
+  <span>Ollama LLM</span>
+  <span>React</span>
   <span>Fly.io</span>
   <span>Node | Hono</span>
   <span>Pocketbase</span>
@@ -136,8 +167,8 @@ July 2024 - July 2025
   <span>Github Repo Templates</span>
 </div>
 
-- Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway
-- Company BE Infrastructure running on Fly.io
+- Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway (including system design)
+- Systems design for Web Infrastructure running on Fly.io
 	- Microsite health dashboard (Svelte)
 	- Custom Wiki/Presskits microsites accesible via Markdown, built on Vanilla JS scripts, Svelte and Github workflows for automatic deployments
 	- Custom Svelte component library, using storybook and npx for rapid DX installs
@@ -148,9 +179,10 @@ July 2024 - July 2025
 - R&D with D3.js for node graph views, using Svelte
 - Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
 
-#### A26
+#### A26 | 26 DX `Media Agency`
 
-March 2024 - July 2024
+March 2024 - July 2024,
+*Senior Frontend Engineer*
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>QA</span>
@@ -166,9 +198,10 @@ March 2024 - July 2024
 * Following Figma led Design systems.
 * Ensuring pixel perfect responsive designs and best in class HTML semantics and Accessibility tiers, met by working closely to the QA team.
 
-#### MMT
+#### MMT `Digital transformation`
+December 2023 - March 2024,
+*Senior Frontend Engineer*
 
-December 2023 - March 2024
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Component Library</span>
@@ -178,13 +211,14 @@ December 2023 - March 2024
   <span>Next.js</span>
 </div>
 
-- In-house R&D with Federated modules and Micro Frontends
+- Granted R&D funding for case study of Federated modules and Micro Frontends
 - In-house React based component Library
 - Trained in Contentful CMS
 
-#### Vodafone
+#### Vodafone (~5 years) | `telco`
 
-August 2018 - November 2023
+August 2018 - November 2023,
+*Senior Frontend Engineer*
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Team Lead</span>
@@ -193,23 +227,26 @@ August 2018 - November 2023
   <span>AWS | Lambda</span>
 </div>
 
-* Retail Checkout application built with React and Typescript - serving 100s of daily customers!
+* Retail Checkout application built with React and Typescript - serving 1000s of daily customers!
   * Team Lead for the Checkout application
-  * continuous maintaitence and optimnisation
+  * Continuous maintaitence and optimnisation
   * CRO features implemented and architectured alongside our Backend teams Lead 
-  * Ensureance of high performance Accessiblity scores
-  * increase Testing coverage with Cypress and other E2E scoped user journeys
-* New customer Email application built with React running on AWS lambda
+  * Ensureance of high performance Accessiblity scores (WCAG compliant)
+  * Increase Testing coverage with Cypress and other E2E scoped user journeys
+* Lead new customer Email application built with React running on AWS lambda
 * Cross team maintainer for the in-house React component library used by all of Vodafone digital
 
-#### ScanLAB Projects
-
+#### ScanLAB Projects (~3 years) `Architecture and Film`
+March 2015 - July 2018
+*Web Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Vue</span>
   <span>Three.js</span>
   <span>AWS | Lambda</span>
 </div>
 
+* Systems design for in-house web infrastructure
+* R&D consultant for Rail Mail Museum's Live Experience
 * 2x Museum (web based tech stack) experiences for London Rail mail Museum.
 * Custom in-house Large files (>5gb) AWS S3 uploader (node.js) for clients and in-house usage 
 * Custom video render sign-off and delivery product for Clients
@@ -224,31 +261,31 @@ August 2018 - November 2023
 ### 🕵 Agency work
 
 #### Just-So
-
+*Frontend Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>React</span>
 </div>
 
 #### Neverbland
-
+*Frontend Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>React</span>
 </div>
 
 #### Bulb
-
+*Frontend Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>React</span>
 </div>
 
 #### Shelter
-
+*Frontend Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>React</span>
 </div>
 
 #### Harmony Park
-
+*Frontend Developer*
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
   <span>Backbone.js</span>
 </div>
