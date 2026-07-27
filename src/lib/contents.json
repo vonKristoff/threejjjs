@@ -83,7 +83,7 @@
     "sayit": {
       "title": "Say it with Love",
       "client": "threejjjs",
-      "role": "Prototype",
+      "role": "Build your poster with an API",
       "url": "https://say.itwithlove.com/",
       "thumb": "SAYIT",
       "tags": ["Design & Development", "API"]
