@@ -35,8 +35,8 @@
 <div class="border-t border-gray-200 bg-pop-100 px-4 py-3">
   <form
     bind:this={formEl}
-    {...chat.enhance(async ({ form, data, submit }) => {
-      const message = data.message?.trim();
+    {...chat.enhance(async (instance) => {
+      const message = instance.fields.message.value()?.trim();
       if (!message) return;
 
       store.addMessage({
@@ -50,8 +50,8 @@
       store.chilliInHeader = false;
 
       try {
-        await submit();
-        const result = chat.result as any;
+        await instance.submit();
+        const result = instance.result as any;
         const msgId = crypto.randomUUID();
         const withChilli = !!result?.compatible_with_chilli;
 
@@ -62,7 +62,7 @@
           id: msgId,
           compatible_with_chilli: withChilli,
         });
-        form.reset();
+        instance.element.reset();
         scrollEnd?.();
 
         if (withChilli) {

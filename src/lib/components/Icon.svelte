@@ -13,7 +13,7 @@
 		colour = 'currentColor',
 		src = 'sprites'
 	}: Props = $props();
-	const href = `/${src}.svg#icon-${ctx}`;
+	const href = $derived(`/${src}.svg#icon-${ctx}`);
 </script>
 
 <svg
