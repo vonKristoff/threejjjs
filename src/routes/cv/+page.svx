@@ -14,7 +14,7 @@
     <span>📚</span>
     <strong class="hidden md:block">Experience:</strong>
     <span class="w-full md:text-right">
-      Senior Developer 10+ years (Enterprise & Agency)
+      Software Engineer 10+ years (Enterprise & Agency)
     </span>
   </div>
   <div class="flex gap-4">
@@ -54,13 +54,19 @@
 
 ### 🏄 Introduction
 
-As a parent, I really understand the frustration and difficulty of communications from school services and general messaging, and would relish the opportunity to be part of helping making progressive change in this sector. 
+Hello, I am a Senior Engineer building upon the foundations of HTML and Web standards practicing what it takes to work alongside others to forge high performant web applications of today. By being Framework agnostic, I have helped lead teams to find solutions from a pragmatic and hands on approach to empowering a team to adapt and push/pull support from the external departments around them.
 
-I have a background in design, and am big on collaborating with product, as well as huge experience in accessibility compliance and excellent CSS skills bringing any responsive layout to life. I have worked across many in house component libraries and all kinds of various CMS systems, working alongside BE teams and building semantic templates ready for any kind of front end framework for the platform UI.
+With a rich background in Design and after working all around the stack, I am competent with both Product and Systems Architecture - I am ready for the next chapter in my career.
 
-I can be autonomous, as well as lead teams with encouragement and clarity especially when forged with a communicative production team. I embrace working with AI assistance, and would love to see how we can such tools to improve the connection between parents and their child's future education.
+I have been using AI workflows using my architectual experience to constrain the agent harness, from features to full applications. There is much to be discussed and discovering the workflows of tomorrow is a very exciting chapter.
+<!-- I have been working with AI assistance over the past year, and certainly have a lot to talk about regarding how it is slicing up engineering workflow patterns that I have basically built my career upon. What excites me about it nonetheless, is to be part of a team and culture that can really figure out collectively new ways of working with AI (not just within engineering); how it effects other departments and bringing us together even tighter. I think Design, and creating new Design system pipelines would be a great example of this. It is these kinds of conversations I am fuelled by and evolve my career path forward. -->
 
+<!-- We are certainly at a time where a massive reinvention of the UI can take place, and I refuse to believe that a prompt will replace the web as we know it. We have the potential to spawn so much rich content, explore canvases and discover the human again if we can give back the time to think and let creativity flow. -->
+<!-- I absolutely love R&D and Product, from building to simply collaborating with colleagues. I have worked across many sectors from Enterprise to Greenfield Startups as well as Agencies, therefore have worked across the stack and with various project management methodologies. I can confidently say I can jump in running to a current project, and also be there from the start in assistance with architecture and design systems leading to their integration into component libraries.  -->
 
+<!-- As a Senior Engineer with over 10 years working fullstack, from deployment infrastructure, API patterns, Frontend application architecture to accessible and cutting edge Design layouts. I always have performance and the customer in mind and now i'm looking for my next big challenge. I want to take my career further at this unique time where the whole development process is being rewritten, and I want to be a part of a team/organisation that is going to lead on this. During the AI boom, I have taken advantage of being all over the stack, and believe in our r  oles evolving with these tools expanding our technical abilities without impeding on creativity. It is a time to be brave and slow down to make the best choices whilst we harness this new power of speed at our disposal. -->
+<!-- I have great depth of experience, from Checkouts to SAAS user flows with dashboards. This has lead me to build a strong understanding for product and the user experience, not only for user story planning but to technically design end to end user journeys, deploying high performant browser code together with pixel perfect layouts. 
+With a deep knowledge of FE patterns involving state management and libraries such as React and Typescript. All built upon a foundation of pure Javascript, HTML and Web Standards.  -->
 
 
 
@@ -110,6 +116,15 @@ I'm personally proud about delivering high-quality, client-facing responsive lay
   <span>Drizzle (Orm)</span> -->
 <!-- </div> -->
 
+<!-- ### 🌈 Recommendations
+_please see LinkedIn profile_
+
+> He has a real gift in getting the best out of his colleagues, knowing when and how much support to offer to truly empower others to learn and develop.
+
+> He was a leader by example and gave his team a clear idea of what quality coding looks like as well as managing expectations from stakeholders and product teams.
+
+> JC fostered a supportive environment where everyone was empowered to learn, grow, and act both individually and as a team.  -->
+
 ### 🚀 UI Highlights
 
 - [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
@@ -120,6 +135,7 @@ I'm personally proud about delivering high-quality, client-facing responsive lay
 
 ### ⚙️ Technical highlights
 
+* Built up a team to maturity with most accurate velocity score across Vodafone
 * Reduced page load times by 56% by introducing Web Workers for heavy API processing and selecting optimal data-fetching strategies (SSR, lazy, WebSockets/GraphQL). 
 * Resolved a critical mobile compatibility issue that increased conversion rates and yearly sales by 2%.
 * Executed 10+ CRO initiatives with >70% success rate.
@@ -137,15 +153,23 @@ August 2025 - current,
 *Contractor*
 
 <div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
+  <span>Docker</span>
+  <span>CICD</span>
+  <span>Agent Harness</span>
   <span>Astro</span>
   <span>Svelte</span>
   <span>Stripe</span>
+  <span>Python</span>
 </div>
 
-<!-- - Aura Satz (Astro site)
+- FamDone (SAAS)
+- Kinesis (Game)
+- Say it with love (OpenGraph Service)
+- Aura Satz (Astro site)
 - Coppermill Rain Garden (Astro site)
 - WYC - Walthamstow Youth Circus (Astro site)
-- Valley of the Cooltrees (Astro site) -->
+- Valley of the Cooltrees (Astro site)
+- TechSupport! Interactive (Studio Infra)
 
 #### Semaeopus `Games Studio`
 
@@ -167,8 +191,9 @@ July 2024 - July 2025,
   <span>Github Repo Templates</span>
 </div>
 
-- Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway (including system design)
-- Systems design for Web Infrastructure running on Fly.io
+- Product Engineer and Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway (including system design)
+- Product Engineeer with rapid R&D prototypes for in-house project (with D3.js for node graph views, using Svelte)
+- Owner of the Web Platform
 	- Microsite health dashboard (Svelte)
 	- Custom Wiki/Presskits microsites accesible via Markdown, built on Vanilla JS scripts, Svelte and Github workflows for automatic deployments
 	- Custom Svelte component library, using storybook and npx for rapid DX installs
@@ -176,7 +201,8 @@ July 2024 - July 2025,
 	- Custom Email capture forms consumable as iFrames, built with Svelte
 	- Custom Email Campaign capture backend, built with HonoJS and Pocketbase
 	- I lead and maintained CSS Design system, keeping all web content and layouts consistent
-- R&D with D3.js for node graph views, using Svelte
+- Design mentor for juniors working on other projects
+- DevOps Studio Infrastructure
 - Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
 
 #### A26 | 26 DX `Media Agency`
@@ -227,14 +253,14 @@ August 2018 - November 2023,
   <span>AWS | Lambda</span>
 </div>
 
-* Retail Checkout application built with React and Typescript - serving 1000s of daily customers!
-  * Team Lead for the Checkout application
-  * Continuous maintaitence and optimnisation
-  * CRO features implemented and architectured alongside our Backend teams Lead 
-  * Ensureance of high performance Accessiblity scores (WCAG compliant)
+* Primary focus was the Checkout retail application built with React and Typescript - serving 1000s of daily customers
+  * Team Lead for the Checkout application, managing up to 10 developers at any one time
+  * Continuous maintenance and optimisation
+  * Designed and implemented CRO features alongside our Backend teams Lead
+  * Ensuring high performance Accessibility scores (WCAG compliant)
   * Increase Testing coverage with Cypress and other E2E scoped user journeys
 * Lead new customer Email application built with React running on AWS lambda
-* Cross team maintainer for the in-house React component library used by all of Vodafone digital
+* Cross team maintainer for the in-house React component library
 
 #### ScanLAB Projects (~3 years) `Architecture and Film`
 March 2015 - July 2018
