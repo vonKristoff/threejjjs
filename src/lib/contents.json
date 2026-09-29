@@ -80,6 +80,22 @@
       "thumb": "VENN",
       "tags": ["Design & Development", "API"]
     },
+    "dsb": {
+      "title": "Design System Builder",
+      "client": "threejjjs",
+      "role": "From GUI to CLI",
+      "url": "https://dsb.threejjjs.xyz/",
+      "thumb": "DSB",
+      "tags": ["bunx", "CSS"]
+    },
+    "famdone": {
+      "title": "FamDone",
+      "client": "threejjjs",
+      "role": "Building better habits together",
+      "url": "https://walthamstow.famdone.xyz/",
+      "thumb": "FAMDONE",
+      "tags": ["SAAS"]
+    },
     "sayit": {
       "title": "Say it with Love",
       "client": "threejjjs",

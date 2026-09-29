@@ -54,11 +54,13 @@
 
 ### 🏄 Introduction
 
-Hello, I am a Senior Engineer building upon the foundations of HTML and Web standards practicing what it takes to work alongside others to forge high performant web applications of today. By being Framework agnostic, I have helped lead teams to find solutions from a pragmatic and hands on approach to empowering a team to adapt and push/pull support from the external departments around them.
+Hello, I am a Senior Engineer building upon the foundations of HTML and Web standards, practicing what it takes to work alongside others and forge high performant web applications for today. By being Framework agnostic, I have helped lead teams to find solutions from a pragmatic and hands on approach to empowering a team to adapt and push/pull support from the external departments around them.
 
-With a rich background in Design and after working all around the stack, I am competent with both Product and Systems Architecture - I am ready for the next chapter in my career.
+With a rich background in Design and after working all around the stack, I am competent with both Product and Systems Architecture including client facing interaction. In regards to performance and reporting, I successfully deployed many features (at Vodafone) whereby applying CRO under feature flagging and successful A/B testing.
 
-I have been using AI workflows using my architectual experience to constrain the agent harness, from features to full applications. There is much to be discussed and discovering the workflows of tomorrow is a very exciting chapter.
+I have been using AI workflows using my architectual experience to constrain the agent harness. From features to full applications, with the most recent example being [FamDone](https://famdone.walthamstow.xyz), for my local community of parents, a SAAS including payment rails and websocket driven multi user dashboards. AI has also empowered me to utilise other languages and backend infrastructure which is all about delivering something fit for purpose. 
+
+Remove the framework; the objective and security remains the same. 
 <!-- I have been working with AI assistance over the past year, and certainly have a lot to talk about regarding how it is slicing up engineering workflow patterns that I have basically built my career upon. What excites me about it nonetheless, is to be part of a team and culture that can really figure out collectively new ways of working with AI (not just within engineering); how it effects other departments and bringing us together even tighter. I think Design, and creating new Design system pipelines would be a great example of this. It is these kinds of conversations I am fuelled by and evolve my career path forward. -->
 
 <!-- We are certainly at a time where a massive reinvention of the UI can take place, and I refuse to believe that a prompt will replace the web as we know it. We have the potential to spawn so much rich content, explore canvases and discover the human again if we can give back the time to think and let creativity flow. -->
