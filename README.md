@@ -36,3 +36,19 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
+## CV rater
+
+Scores `src/routes/cv/+page.svx` for structure, impact, brevity and footprint (zero-dep, AST-lite):
+
+```sh
+npm run rate-cv
+```
+
+## CV export
+
+Generates `cv.doc` (Word/Google Docs-openable) from the CV source:
+
+```sh
+npm run cv:doc
+```

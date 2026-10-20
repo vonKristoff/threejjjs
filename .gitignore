@@ -6,3 +6,6 @@ RAW/
 v2/
 icons/
 .netlify/
+
+# generated CV export
+cv.doc

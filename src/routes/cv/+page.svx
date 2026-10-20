@@ -1,353 +1,110 @@
-<!-- <script>
-  import head from "../../lib/assets/threejjjs.jpg";
-</script> -->
+# JC Nicolas
 
-<div class="flex flex-row justify-between items-end">
-  <h1>JC Nicolas</h1>
-  <!-- <div class="headshot">
-    <img src="/threejjjs.webp" alt="JC Nicolas" />
-  </div> -->
-</div>
+**Senior Software Engineer** | London, UK
+[LinkedIn](https://www.linkedin.com/in/jc-nicolas-1581929) | [Portfolio](https://threejjjs.xyz) | [GitHub](https://github.com/vonKristoff/) | 0xjceee@proton.me
 
-<div class="flex flex-col">
-  <div class="flex gap-4">
-    <span>📚</span>
-    <strong class="hidden md:block">Experience:</strong>
-    <span class="w-full md:text-right">
-      Software Engineer 10+ years (Enterprise & Agency)
-    </span>
-  </div>
-  <div class="flex gap-4">
-    <span>✨</span>
-    <strong class="hidden md:block">Specialisation:</strong>
-    <span class="w-full md:text-right">FE & Product</span>
-  </div>
-  <div class="flex gap-4">
-    <span>📍</span>
-    <strong class="hidden md:block">Location:</strong>
-    <span class="w-full md:text-right">London, UK</span>
-  </div>
-</div>
+## SUMMARY
 
-### 🤙 Contact links
+Over 10 years' experience building high-performance, standards-based web applications across the full stack. Framework-agnostic by principle, with deep expertise in React and TypeScript for large-scale enterprise teams, grounded in strong computer science fundamentals and performance-driven vanilla JavaScript.
 
-<ul class="flex justify-between flex-wrap list-none p-0 [&_li]:p-0">
-  <li>
-    <a href="https://www.linkedin.com/in/jc-nicolas-1581929" target="_blank">
-      LinkedIn
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://threejjjs.xyz">
-      Portfolio
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://github.com/vonKristoff/">
-      Github
-    </a>
-  </li>
-  <li>
-    <span class="rounded-md bg-slate-200 px-4 py-2">0xjceee@proton.me</span>
-  </li>
-</ul>
+Design background paired with broad product and systems-architecture skills, including client-facing discovery, planning, and negotiation. Builds tooling that bridges the two disciplines, from Figma-led component libraries to shared design-system infrastructure.
 
-### 🏄 Introduction
+Led Vodafone's Checkout payment and loan contract rails (100s of monthly sales) and shipped 100+ features using feature flags and A/B testing, lifting conversion ~20%.
 
-Hello, I am a Senior Engineer building upon the foundations of HTML and Web standards, practicing what it takes to work alongside others and forge high performant web applications for today. By being Framework agnostic, I have helped lead teams to find solutions from a pragmatic and hands on approach to empowering a team to adapt and push/pull support from the external departments around them.
+## TECHNICAL SKILLS
 
-With a rich background in Design and after working all around the stack, I am competent with both Product and Systems Architecture including client facing interaction. In regards to performance and reporting, I successfully deployed many features (at Vodafone) whereby applying CRO under feature flagging and successful A/B testing.
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS
+**Frontend:** React, Svelte, SvelteKit, Astro, Solid, Next.js, Vue, Tailwind CSS
+**Backend:** Node.js, Bun, Hono, Express, RESTful APIs, GraphQL
+**Cloud & DevOps:** AWS (S3, Lambda, EC2, Transcoder), Docker, CI/CD, GitHub Actions, Fly.io, Vercel, Railway, Coolify, Cloudflare (Wrangler)
+**Testing:** Cypress, Jest, React Testing Library
+**Design:** Figma, Design Systems, WCAG / Accessibility, Semantic HTML, Responsive Layouts, Storybook
+**Process & AI:** Claude, OpenCode, AI Agent Sandboxing (Docker), Agile, User Story Definition, Feature Sizing, A/B Testing, Feature Flags, Jira, Linear
 
-I have been using AI workflows using my architectual experience to constrain the agent harness. From features to full applications, with the most recent example being [FamDone](https://famdone.walthamstow.xyz), for my local community of parents, a SAAS including payment rails and websocket driven multi user dashboards. AI has also empowered me to utilise other languages and backend infrastructure which is all about delivering something fit for purpose. 
+## PROFESSIONAL EXPERIENCE
 
-Remove the framework; the objective and security remains the same. 
-<!-- I have been working with AI assistance over the past year, and certainly have a lot to talk about regarding how it is slicing up engineering workflow patterns that I have basically built my career upon. What excites me about it nonetheless, is to be part of a team and culture that can really figure out collectively new ways of working with AI (not just within engineering); how it effects other departments and bringing us together even tighter. I think Design, and creating new Design system pipelines would be a great example of this. It is these kinds of conversations I am fuelled by and evolve my career path forward. -->
+**Senior Engineer (Contract)** | Aug 2025 – Present
+threejjjs Interactive | Self-employed
 
-<!-- We are certainly at a time where a massive reinvention of the UI can take place, and I refuse to believe that a prompt will replace the web as we know it. We have the potential to spawn so much rich content, explore canvases and discover the human again if we can give back the time to think and let creativity flow. -->
-<!-- I absolutely love R&D and Product, from building to simply collaborating with colleagues. I have worked across many sectors from Enterprise to Greenfield Startups as well as Agencies, therefore have worked across the stack and with various project management methodologies. I can confidently say I can jump in running to a current project, and also be there from the start in assistance with architecture and design systems leading to their integration into component libraries.  -->
+Independent contractor building web products for clients and the local community.
 
-<!-- As a Senior Engineer with over 10 years working fullstack, from deployment infrastructure, API patterns, Frontend application architecture to accessible and cutting edge Design layouts. I always have performance and the customer in mind and now i'm looking for my next big challenge. I want to take my career further at this unique time where the whole development process is being rewritten, and I want to be a part of a team/organisation that is going to lead on this. During the AI boom, I have taken advantage of being all over the stack, and believe in our r  oles evolving with these tools expanding our technical abilities without impeding on creativity. It is a time to be brave and slow down to make the best choices whilst we harness this new power of speed at our disposal. -->
-<!-- I have great depth of experience, from Checkouts to SAAS user flows with dashboards. This has lead me to build a strong understanding for product and the user experience, not only for user story planning but to technically design end to end user journeys, deploying high performant browser code together with pixel perfect layouts. 
-With a deep knowledge of FE patterns involving state management and libraries such as React and Typescript. All built upon a foundation of pure Javascript, HTML and Web Standards.  -->
-
-
-
-<!-- Specialising in performance optimisation and scalable system design.  -->
-<!-- Applying standards by designing accessible, WCAG compliant interfaces within established design systems, ensuring semantic HTML, advocated for web standards, browser APIs to build flexible, scalable architectures.  -->
-<!-- Defined technical direction through roadmaps and user stories, balancing feature delivery with maintainability.  -->
-
-
-<!-- Architect solutions across the stack using TypeScript, React, and Node.js, with a track record of delivering measurable business impact through technical problem-solving. -->
+- Launched FamDone SaaS beta to ~20 families, with Stripe payments and WebSocket multi-user dashboards.
+- Shipped 4 Astro/Svelte client sites (Aura Satz, Coppermill Rain Garden, WYC, Cooltrees) plus a game and an OpenGraph service.
+- Crafted 2 design system generators using Bunx for base project themes and grid layouts, bridging the gap between developers and designers and saving handover time
+- Architected TechSupport!'s studio infrastructure, implementing DevOps workflows for automated deployment and operations, supporting 2 founders and getting them to speed running a business within 4 weeks
+- Ran AI coding agents in a Docker sandbox with scoped permissions, delivering ~3x faster feature delivery.
 
-<!-- * Secured a 1 month R&D residency with Starknet in the USA, exploring LLMs and graph nodes. -->
-
-
-
-<!-- **I'm great at taking product/design concepts and creating polished and responsive UI's.**
-
-I am a web developer with over 10 years of experience delivering performant digital products across enterprise and agency environments. With strong vanilla JavaScript expertise, with a focus on core language fundamentals and performance-oriented patterns, I work primarily with modern frameworks including React, Vue, and Svelte, supported tools such as Docker, GitHub Actions, AWS/Azure/self-hosted cloud and serverless infrastructure. I have delivered end-to-end projects, implemented CI/CD pipelines, built solutions across a variety of CMS platforms, and integrated complex APIs.
-
-Fluent in Agile methodologies, I am confident working independently or within multidisciplinary teams, contributing to planning cycles, shaping user stories, and collaborating closely with researchers, designers, and engineers. I have led up to 10 in a FE team, delivering consistent velocity metrics, in fact my team at Vodafone stood out from the rest on this.  
-
-I'm personally proud about delivering high-quality, client-facing responsive layouts that meet WCAG accessibility and broader semantic web standards, including CSS mastery. -->
-
-<!-- I have been working with AI workflows, using OpenCode and a respective Agent within a Docker container for safety practice when enabling "dangerious permissions".  -->
-
-<!-- ### 📐 Technical practice
-
-**AI: Using sandboxed OpenCode environments with Agent subscription.**
-
-| Development                       | Design UX/UI                    | Process                    |
-| --------------------------------- | ------------------------------- | -------------------------- |
-| Typescript \| Zod                 | Following Figma designs         | Agile methodolgies         |
-| React \| Svelte \| Astro \| Solid | Implementing Design systems     | Defining User Stories      |
-| Hono \| Express \| Next           | Semantic HTML                   | CICD Workflows             |
-| RestFul API's \| GraphQL          | Accessibility and Web Standards | Claude \| Co-Pilot         |
-| Vite \| Package scripts           | Tailwind CSS                    | E2E Cypress \| RTL \| Jest |
-| Fly \| Vercel \| Railway \| AWS   | Responsive Layouts              | Jira \| Azure \| Linear    |
-| Node \| Bun \| Docker             | Page load optimisation          | PR Reviews                 | -->
-
-<!-- ### ⚡️ Have I used? (yes) -->
-
-<!-- <div class="flex gap-1 *:text-xs *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 flex-wrap"> -->
-  <!-- <span>Blockchain (Starknet)</span> -->
-  <!-- <span>LLM (OpenAI | Claude)</span>
-  <span>Stripe (Payments)</span>
-  <span>D3.js (Charts)</span>
-  <span>Three.js (3D)</span>
-  <span>Drizzle (Orm)</span> -->
-<!-- </div> -->
-
-<!-- ### 🌈 Recommendations
-_please see LinkedIn profile_
-
-> He has a real gift in getting the best out of his colleagues, knowing when and how much support to offer to truly empower others to learn and develop.
-
-> He was a leader by example and gave his team a clear idea of what quality coding looks like as well as managing expectations from stakeholders and product teams.
-
-> JC fostered a supportive environment where everyone was empowered to learn, grow, and act both individually and as a team.  -->
-
-### 🚀 UI Highlights
-
-- [Corinthia Hotels](https://www.corinthia.com/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
-- [Mott Macdonald](https://www.mottmac.com/en-gb/) | A26 | Agency | HTML / Vanilia JS / CSS / .Net Razor Components
-- [ScanLAB Projects](https://scanlabprojects.co.uk/) | threejjjs | Contract | Astro & Svelte static site, Custom CICD workflow
-- [What Are We Building](https://walthamstow.whatarewebuilding.xyz) | threejjjs | Contract | Static Svelte site
-- [Valley of the cool trees](https://cooltrees.net) | threejjjs | Contract | Static Svelte site
-
-### ⚙️ Technical highlights
-
-* Built up a team to maturity with most accurate velocity score across Vodafone
-* Reduced page load times by 56% by introducing Web Workers for heavy API processing and selecting optimal data-fetching strategies (SSR, lazy, WebSockets/GraphQL). 
-* Resolved a critical mobile compatibility issue that increased conversion rates and yearly sales by 2%.
-* Executed 10+ CRO initiatives with >70% success rate.
-* Built AWS Lambda functions and client-facing applications with CI/CD pipelines (Azure) and comprehensive testing (Cypress).
-* Led P1 incident responses, diagnosing cross-system issues and implementing rollbacks to minimise downtime. 
-* Designed GDPR-compliant systems for sensitive financial data, implementing access controls, secure logging, and feature flags for incremental rollouts.
-* Led a React codebase migration to functional components, improving consistency and developer experience.
-* Won a Vodafone hackathon, securing business funding to develop and adopt the idea out to other teams across the company.
-
-### ⏳ History
-
-#### threejjjs Interactive
-
-August 2025 - current,
-*Contractor*
-
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Docker</span>
-  <span>CICD</span>
-  <span>Agent Harness</span>
-  <span>Astro</span>
-  <span>Svelte</span>
-  <span>Stripe</span>
-  <span>Python</span>
-</div>
-
-- FamDone (SAAS)
-- Kinesis (Game)
-- Say it with love (OpenGraph Service)
-- Aura Satz (Astro site)
-- Coppermill Rain Garden (Astro site)
-- WYC - Walthamstow Youth Circus (Astro site)
-- Valley of the Cooltrees (Astro site)
-- TechSupport! Interactive (Studio Infra)
-
-#### Semaeopus `Games Studio`
-
-July 2024 - July 2025,
-*Product Engineer*
-
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <!-- <span>Stripe</span> -->
-  <span>Svelte</span>
-  <span>Ollama LLM</span>
-  <span>React</span>
-  <span>Fly.io</span>
-  <span>Node | Hono</span>
-  <span>Pocketbase</span>
-  <span>Github workflows</span>
-  <span>Email campaigns</span>
-  <span>UX Design</span>
-  <span>Component Library</span>
-  <span>Github Repo Templates</span>
-</div>
-
-- Product Engineer and Launch of game The Oruggin Trail on Itch.io, built with React and Typescript, deployed with Railway (including system design)
-- Product Engineeer with rapid R&D prototypes for in-house project (with D3.js for node graph views, using Svelte)
-- Owner of the Web Platform
-	- Microsite health dashboard (Svelte)
-	- Custom Wiki/Presskits microsites accesible via Markdown, built on Vanilla JS scripts, Svelte and Github workflows for automatic deployments
-	- Custom Svelte component library, using storybook and npx for rapid DX installs
-	- Custom public storage management system for public media consumption, using AWS S3 with svelteKit
-	- Custom Email capture forms consumable as iFrames, built with Svelte
-	- Custom Email Campaign capture backend, built with HonoJS and Pocketbase
-	- I lead and maintained CSS Design system, keeping all web content and layouts consistent
-- Design mentor for juniors working on other projects
-- DevOps Studio Infrastructure
-- Archetypal and Semaeopus static websites, Where I lead design and built with Svelte
-
-#### A26 | 26 DX `Media Agency`
-
-March 2024 - July 2024,
-*Senior Frontend Engineer*
-
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>QA</span>
-  <span>.NET</span>
-  <span>Component Library</span>
-  <span>Figma</span>
-  <span>Accessibility testing</span>
-  <span>Umbraco</span>
-</div>
-
-* Beautiful top-tier client sites (Corinthia Hotels and Mott MacDonald)
-* Creating HTML and Vanila JS Frontend Components for .NET Umbraco backends. 
-* Following Figma led Design systems.
-* Ensuring pixel perfect responsive designs and best in class HTML semantics and Accessibility tiers, met by working closely to the QA team.
-
-#### MMT `Digital transformation`
-December 2023 - March 2024,
-*Senior Frontend Engineer*
-
-
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Component Library</span>
-  <span>MFE</span>
-  <span>Federated Modules</span>
-  <span>React | RTL</span>
-  <span>Next.js</span>
-</div>
-
-- Granted R&D funding for case study of Federated modules and Micro Frontends
-- In-house React based component Library
-- Trained in Contentful CMS
-
-#### Vodafone (~5 years) | `telco`
-
-August 2018 - November 2023,
-*Senior Frontend Engineer*
-
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Team Lead</span>
-  <span>RTL | Cypress | E2E Testing</span>
-  <span>React | Typescript | Zod</span>
-  <span>AWS | Lambda</span>
-</div>
-
-* Primary focus was the Checkout retail application built with React and Typescript - serving 1000s of daily customers
-  * Team Lead for the Checkout application, managing up to 10 developers at any one time
-  * Continuous maintenance and optimisation
-  * Designed and implemented CRO features alongside our Backend teams Lead
-  * Ensuring high performance Accessibility scores (WCAG compliant)
-  * Increase Testing coverage with Cypress and other E2E scoped user journeys
-* Lead new customer Email application built with React running on AWS lambda
-* Cross team maintainer for the in-house React component library
-
-#### ScanLAB Projects (~3 years) `Architecture and Film`
-March 2015 - July 2018
-*Web Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Vue</span>
-  <span>Three.js</span>
-  <span>AWS | Lambda</span>
-</div>
-
-* Systems design for in-house web infrastructure
-* R&D consultant for Rail Mail Museum's Live Experience
-* 2x Museum (web based tech stack) experiences for London Rail mail Museum.
-* Custom in-house Large files (>5gb) AWS S3 uploader (node.js) for clients and in-house usage 
-* Custom video render sign-off and delivery product for Clients
-	* Vue.js frontend
-	* Trello API for dashboard and comment management
-	* Node Express with webhooks backend
-	* AWS transcoder for cloud rendering
-* Soane Museum 3D experience site using three.js and vue.js
-* iPAD accelerometer prototype app which featured in the TV series "Lost treasures of ..."
-* Company brand site, which I lead design and branding for, as well as building a static site generator, like Astro, using markdown, jade and vanilla JS, built on the node.js runtime.
-
-### 🕵 Agency work
-
-#### Just-So
-*Frontend Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>React</span>
-</div>
-
-#### Neverbland
-*Frontend Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>React</span>
-</div>
-
-#### Bulb
-*Frontend Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>React</span>
-</div>
-
-#### Shelter
-*Frontend Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>React</span>
-</div>
-
-#### Harmony Park
-*Frontend Developer*
-<div class="flex flex-wrap *:rounded-md *:bg-slate-200 *:px-4 *:py-0.5 gap-1 text-xs">
-  <span>Backbone.js</span>
-</div>
-
-#### Badge of Honour:
-
-<div class="flex flex-col gap-2">
-  <span class="rounded-md bg-slate-200 px-4 py-2">
-    Vodafone Hackathon winner 2022
-  </span>
-  <span class="rounded-md bg-slate-200 px-4 py-2">
-    Postal Museum Interactive Display 2017
-  </span>
-  <span class="rounded-md bg-slate-200 px-4 py-2">
-    Best Tech in Video Award for Farfetch 2014
-  </span>
-  <span class="rounded-md bg-slate-200 px-4 py-2">Flash refugee</span>
-</div>
-
-<style>
-  .headshot {
-    width: 6em;
-    height: 6em;
-    border-radius: 50%;
-    overflow: hidden;
-    img {
-      margin: auto;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center bottom;
-    }
-  }
-  td:nth-child(even) {
-    background-color: var(--color-slate-100);
-  }
-</style>
+Skills: Stripe, Astro, Svelte, Python, OpenCode
+
+**Product Engineer** | Jul 2024 – Jul 2025
+Semaeopus | Games Studio
+
+Product engineer and owner of the web platform for an independent games studio.
+
+- Released The O'ruggin Trail on Itch.io (React, TypeScript, Railway), helping secure £100k UK Games Fund funding.
+- Developed 3 rapid R&D prototypes in 3 weeks during a Starknet NY residency (D3.js node graphs, Svelte).
+- Owned the web platform: health dashboard, Markdown Wiki/Presskits with auto-deploy, S3 media system, and an email capture backend (HonoJS, Pocketbase) capturing 1k+ signups.
+- Published a Svelte component library (npx for rapid DX installs) to npm, powering 12 static sites (SvelteKit).
+- Mentored 2 junior developers on web best practices and ran studio DevOps with GitHub templates and Docker.
+
+Skills: Stripe, Svelte, SvelteKit, Hono, Pocketbase, Ollama
+
+**Senior Frontend Engineer** | Mar 2024 – Jul 2024
+A26 / 26 DX | Media Agency
+
+Delivered large-scale client sites on .NET Umbraco backends.
+
+- Delivered top-tier client sites (Corinthia Hotels, Mott MacDonald) achieving 95+ Lighthouse and WCAG AA.
+- Created ~30 HTML and Vanilla JS frontend components for .NET Umbraco.
+- Sized 30 components and 18 layout variations for a ~£10k cost forecast (one month of work).
+- Rolled out a Figma-led design system with zero QA layout regressions.
+
+Skills: .NET, Umbraco, Figma, WCAG
+
+**Senior Frontend Engineer** | Dec 2023 – Mar 2024
+MMT | Digital Transformation
+
+Frontend engineer on a digital transformation programme.
+
+- Granted R&D funding (~£10k, one month) for a Federated Modules and Micro Frontends case study.
+- Assembled a 55-component React library on top of Shadcn and completed Contentful CMS certification.
+
+Skills: React, Next.js, Module Federation, Contentful, Storybook
+
+**Senior Frontend Engineer** | Aug 2018 – Nov 2023
+Vodafone | Telco
+
+Led the Checkout application, Vodafone's go-to frontend payment rails.
+
+- Led the Checkout page application (React, TypeScript) serving hundreds of daily users, managing up to 10 developers.
+- Drove 100+ CRO features with a 70% win rate, lifting conversion ~20%.
+- Fixed a silent PDF download failure, adding ~£15k/month (~£180k/year, +2% revenue).
+- Reduced page load times by 82% using Web Workers and optimal data-fetching (SSR, lazy, WebSockets/GraphQL).
+- Migrated the codebase twice (to functional components, then TypeScript) at 3 months each, cutting code volume ~17%, as well as increasing the DX, leading to an increase in velocity by 15%.
+- Maintained the in-house React component library used widely by 20 teams
+
+Skills: React, TypeScript, Zod, Cypress, AWS Lambda, MobX
+
+**Web Developer** | Mar 2015 – Jul 2018
+ScanLAB Projects | Architecture and Film
+
+Built web infrastructure and interactive experiences for a 3D scanning and architecture studio.
+
+- Produced 2 museum web-based interactive displays and the Soane Museum 3D site (Three.js, Vue.js), online for 10 years.
+- Engineered a large-file S3 uploader (Node.js, 5GB+ files) and a video render sign-off product (Vue, Trello API, Express, AWS Transcoder).
+- Prototyped an iPad accelerometer app featured on BBC's "Lost Treasures of the Maya", with millions of views worldwide.
+- Authored a static site generator (Markdown, Vanilla JS, Node) 10 years before Astro.
+
+Skills: Vue, Three.js, Node.js, Express, AWS (S3, Transcoder)
+
+**Frontend Developer** | 2011 – 2015
+Just-So, Neverbland, Bulb, Shelter, Harmony Park | Agencies & Charity
+
+Delivered responsive React and Backbone.js interfaces for agency and charity clients.
+
+Skills: React, PHP, CSS, Backbone.js, CouchDb
+
+## AWARDS
+
+- Won Vodafone Hackathon 2022, securing £100k of business funding for accessibility.
+- Won Best Tech in Video Award at Farfetch 2014 using CSS and JavaScript.
